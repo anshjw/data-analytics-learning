@@ -1,6 +1,7 @@
 # 🤖 AI Tools for AI-Assisted Analytics
 
-This document lists commonly used **AI tools for analytics**, grouped by purpose, with a short explanation of how each tool is used in data analysis workflows.
+This folder contains experiments and notes on using AI tools in analytics.
+It focuses on AI-assisted data analysis, EDA, and insight generation.
 
 ---
 
