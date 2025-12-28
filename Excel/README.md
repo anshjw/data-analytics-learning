@@ -13,3 +13,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Lookups (VLOOKUP, HLOOKUP, XLOOKUP)
 - Functions (IF, COUNTIF, COUNT......)
 - Sorting & Filtering
+- Charts & Dashboards
