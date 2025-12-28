@@ -1,3 +1,8 @@
 ## Excel
 
+This contains all the learning notes, changes continous assesments and many more. 
 This folder contains excel files, dashboard, Files, workbooks, worksheets, screenshots and other.
+
+---
+
+## Tools and Technology learned
