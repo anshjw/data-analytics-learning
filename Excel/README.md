@@ -9,4 +9,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Download and installation
 - What are worksheets & workbook 
 - Tables
--
+- Pivot tables
