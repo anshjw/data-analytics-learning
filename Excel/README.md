@@ -8,4 +8,5 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 ## Tools and Technology learned
 - Download and installation
 - What are worksheets & workbook 
-- How to create tables, pivot tables, charts, graphs, etc
+- Tables
+-
