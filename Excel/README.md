@@ -10,4 +10,5 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - What are worksheets & workbook 
 - Tables
 - Pivot tables
-- Lookups (VLOOKUP, HLOOKUP)
+- Lookups (VLOOKUP, HLOOKUP, XLOOKUP)
+- 
