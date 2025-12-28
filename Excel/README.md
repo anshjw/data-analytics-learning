@@ -11,4 +11,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Tables
 - Pivot tables
 - Lookups (VLOOKUP, HLOOKUP, XLOOKUP)
-- 
+- Functions (IF, COUNTIF, COUNT......)
