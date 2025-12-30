@@ -25,3 +25,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Basic shortcuts to auto fill
 - Data Entry
 - Boolean Values
+- Formulas and manipulation
