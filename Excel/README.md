@@ -26,3 +26,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Data Entry with shortcut
 - Boolean Values
 - Formulas and manipulation
+- Copying data with the help of range
