@@ -29,3 +29,6 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Copying data with the help of range
 - Moving data in between workbook
 - Customize and moving data between workbooks
+  - How to move Data From Copy & Paste
+  - Move or Copy
+  - By Formula
