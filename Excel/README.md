@@ -23,6 +23,6 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Dates and it's formats
 - Data types
 - Basic shortcuts to auto fill
-- Data Entry
+- Data Entry with shortcut
 - Boolean Values
 - Formulas and manipulation
