@@ -32,3 +32,17 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - How to move Data From Copy & Paste
   - Move or Copy
   - By Formula
+
+---
+
+## Ribbon
+- File
+- Home 
+- Insert
+- Draw
+- Page Layout
+- Formulas
+- Data
+- Review
+- View
+- Help
