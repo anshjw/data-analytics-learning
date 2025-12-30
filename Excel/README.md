@@ -27,3 +27,5 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Boolean Values
 - Formulas and manipulation
 - Copying data with the help of range
+- Moving data in between workbook
+- Customize and moving data between workbooks
