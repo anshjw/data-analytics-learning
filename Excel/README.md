@@ -1,7 +1,7 @@
 ## Excel
 
 This contains all the learning notes, changes continous assesments and many more. 
-This folder contains excel files, dashboard, Files, workbooks, worksheets, screenshots, Ribons and other.
+This folder contains excel files, dashboard, Files, workbooks, worksheets, screenshots, Ribobns and other.
 
 ---
 
