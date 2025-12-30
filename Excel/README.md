@@ -18,4 +18,10 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 
 ---
 
-It focuses on applying Excel for business-style reporting and analytical tasks
+## Basics
+- Tables
+- Dates and it's formats
+- Data types
+- Basic shortcuts to auto fill
+- Data Entry
+- Boolean Values
