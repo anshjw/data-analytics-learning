@@ -72,4 +72,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Selection	
   - Ctrl + A	= Select all contents of the worksheet
 	- Shift + Spacebar = Select entire row
-  -	Ctrl + Spacebar	Select entire column
+  -	Ctrl + Spacebar =	Select entire Column
