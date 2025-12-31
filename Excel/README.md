@@ -68,3 +68,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Ctrl + B = Apply or remove bold formatting
   - Ctrl + I = Apply or remove italic formatting
   - Ctrl + U = Apply or remove underline
+  - Ctrl + 1 = Open Format Cells dialog box
