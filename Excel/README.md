@@ -71,5 +71,5 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Ctrl + 1 = Open Format Cells dialog box
 - Selection	
   - Ctrl + A	= Select all contents of the worksheet
-	- Shift + Spacebar	Select entire row
+	- Shift + Spacebar = Select entire row
 	Ctrl + Spacebar	Select entire column
