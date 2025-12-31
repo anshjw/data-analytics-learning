@@ -65,3 +65,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Ctrl + F = Find Items in Worksheet
   - Ctrl + H = Find and Replace Data
 - Formatting
+  - Ctrl + B = Apply or remove bold formatting
