@@ -64,3 +64,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Ctrl + S = Save the file
   - Ctrl + F = Find Items in Worksheet
   - Ctrl + H = Find and Replace Data
+- Formatting
