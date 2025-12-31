@@ -39,6 +39,11 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - File
 - Home 
 - Insert
+  - Tables
+  - Pivot Charts
+  - Charts
+  - Recomended items and Charts
+  - Design & Symbols
 - Draw
 - Page Layout
 - Formulas
