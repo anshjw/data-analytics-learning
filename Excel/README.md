@@ -51,3 +51,16 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Review
 - View
 - Help
+
+## Shortcuts
+- Clipboard Actions
+  - Ctrl + C = Copy
+  - Ctrl + X = Cut
+  - Ctrl + V = Paste
+- Undo/Redo
+  - Ctrl + Z = Undo
+  - Ctrl + Y = Redo
+- Save/Find/Replace
+  - Ctrl + S = Save the file
+  - Ctrl + F = Find Items in Worksheet
+  - Ctrl + H = Find and Replace Data
