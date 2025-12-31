@@ -66,3 +66,4 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Ctrl + H = Find and Replace Data
 - Formatting
   - Ctrl + B = Apply or remove bold formatting
+  - Ctrl + I = Apply or remove italic formatting
