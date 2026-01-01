@@ -76,4 +76,20 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Navigation
   - F2 = Edit the active cell
   - Alt + Enter = Add a new line with in a cell
-  
+  - Ctrl + Arrow keys = Move to the edge of the region
+  - Ctrl + Shift + Arrow keys = Select cells to the edge of the data region
+  - Ctrl + Home = Move to the begining of the worksheet
+  - Ctrl + End = Move to the last cell with content 
+  - Ctrl + PageUp/Down = Move betwwen Worksheet tabs
+  - Ctrl + Shift + U = Incrase the height of formula bar
+
+## Formulas
+- Formulas Intro/Basics
+- Functions Intro/Basics
+- Logical Functions
+- Math Functions
+- Statistical Functions
+- Array Formulas
+- Lookup Functions
+- Text Functions
+- Date & Time
