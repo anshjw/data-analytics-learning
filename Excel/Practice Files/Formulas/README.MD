@@ -13,6 +13,7 @@
   - Equlas to (=)
   - Not equals to (<>)
 - Cell Refrencing 
+- Formula Tab
 
 ## How to use the Excel File?
 - First Download the Raw File 
