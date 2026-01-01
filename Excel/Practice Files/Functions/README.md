@@ -1,4 +1,5 @@
 ## Functions
+- Basics of Functions
 - Formula Tab
 - Recently used Functions
 - Insert Functions 
@@ -13,4 +14,6 @@
 - Financial
 - LookUps & Reference
 - Text 
-- More.....
+- Count Functions
+- Engineering Functions
+- More Functions
