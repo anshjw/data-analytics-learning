@@ -75,4 +75,5 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   -	Ctrl + Spacebar =	Select entire Column
 - Navigation
   - F2 = Edit the active cell
+  - Alt + Enter = Add a new line with in a cell
   
