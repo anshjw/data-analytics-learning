@@ -1,1 +1,16 @@
 ## Functions
+- Formula Tab
+- Recently used Functions
+- Insert Functions 
+  - In case you forget the name of the function 
+  - Type the operation you have to perform
+  - Find all the related functions
+  - Description of the Functions
+- Auto Sum
+- Date & Time
+- Logical 
+- Mathematical
+- Financial
+- LookUps & Reference
+- Text 
+- More.....
