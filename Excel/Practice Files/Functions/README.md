@@ -11,11 +11,11 @@
 - Date & Time
 - Logical 
 - Mathematical
-  - Count And it's Types
-  - Various sum functions
-  - Average
-  - Minimum 
-  - Maximum
+  - Count And it's Types (COUNT,COUNTIF,COUNTIFS)
+  - Various sum functions (SUM,SUMIF,SUMIFS)
+  - Average (AVERAGE,AVERAGEIF,AVERAGEIFS)
+  - Minimum (MIN,MINIFS)
+  - Maximum (MAX,MAXIFS)
 - Financial
 - LookUps & Reference
 - Text 
