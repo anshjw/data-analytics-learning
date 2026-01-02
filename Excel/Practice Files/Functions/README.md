@@ -10,6 +10,9 @@
 - Auto Sum
 - Date & Time
 - Logical 
+  - IF (IF,Conditional,Nested)
+  - OR
+  - AND
 - Mathematical
   - Count And it's Types (COUNT,COUNTIF,COUNTIFS)
   - Various sum functions (SUM,SUMIF,SUMIFS)
