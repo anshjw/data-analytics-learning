@@ -33,6 +33,7 @@
   - 3RD QUARTILE
   - MAXIMUM
   - MODE
+  - RANK
 - Engineering Functions
 - More Functions
 
