@@ -22,7 +22,17 @@
 - Financial
 - LookUps & Reference
 - Text 
-- Count Functions
+- Statistical Functions
+  - COUNTS
+  - AVERAGE
+  - MEDIAN
+  - STANDARD DEVIATION
+  - MINIMUM
+  - 1ST QUARTILE
+  - 2ND QUARTILE
+  - 3RD QUARTILE
+  - MAXIMUM
+  - MODE
 - Engineering Functions
 - More Functions
 
