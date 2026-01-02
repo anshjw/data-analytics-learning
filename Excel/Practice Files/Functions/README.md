@@ -11,6 +11,11 @@
 - Date & Time
 - Logical 
 - Mathematical
+  - Count And it's Types
+  - Various sum functions
+  - Average
+  - Minimum 
+  - Maximum
 - Financial
 - LookUps & Reference
 - Text 
