@@ -28,12 +28,12 @@
   - MEDIAN
   - STANDARD DEVIATION
   - MINIMUM
-  - 1ST QUARTILE
-  - 2ND QUARTILE
-  - 3RD QUARTILE
-  - MAXIMUM
-  - MODE
-  - RANK
+  - 1ST Quartile
+  - 2ND Quartile
+  - 3RD Quartile
+  - Maximum
+  - Mode
+  - Rank
 - Engineering Functions
 - More Functions
 
