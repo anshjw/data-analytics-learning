@@ -27,7 +27,7 @@
   - AVERAGE
   - MEDIAN
   - STANDARD DEVIATION
-  - MINIMUM
+  - Minimum
   - 1ST Quartile
   - 2ND Quartile
   - 3RD Quartile
