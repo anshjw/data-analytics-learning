@@ -23,8 +23,8 @@
 - LookUps & Reference
 - Text 
 - Statistical Functions
-  - COUNTS
-  - AVERAGE
+  - Counts
+  - Average
   - Median
   - Standard Deviation
   - Minimum
