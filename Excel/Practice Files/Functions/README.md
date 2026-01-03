@@ -23,9 +23,9 @@
 - LookUps & Reference
 - Text 
 - Statistical Functions
-  - Counts
-  - Average
-  - Median
+  - Counts (COUNT, COUNTIF, COUNTIFS)
+  - Average (AVERAGE, AVERAGEIF, AVERAGEIFS)
+  - Median 
   - Standard Deviation
   - Minimum
   - 1ST Quartile
