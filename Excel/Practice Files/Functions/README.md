@@ -25,8 +25,8 @@
 - Statistical Functions
   - COUNTS
   - AVERAGE
-  - MEDIAN
-  - STANDARD DEVIATION
+  - Median
+  - Standard Deviation
   - Minimum
   - 1ST Quartile
   - 2ND Quartile
