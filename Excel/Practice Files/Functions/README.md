@@ -21,6 +21,9 @@
   - Maximum (MAX,MAXIFS)
 - Financial
 - LookUps & Reference
+  - XLOOKUP
+  - VLOOKUP
+  - HLOOKUP
 - Text 
 - Statistical Functions
   - Counts (COUNT, COUNTIF, COUNTIFS)
