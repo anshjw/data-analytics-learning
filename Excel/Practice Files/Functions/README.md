@@ -37,7 +37,12 @@
   - Maximum
   - Mode
   - Rank
+- Array Function
+  - Dynamic Array
+  - Classic Array
+  - UNIQUE
 - Engineering Functions
+- How to Make the New Functions if they doesn't Exist
 - More Functions
 
 ## Errors
