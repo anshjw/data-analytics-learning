@@ -1,3 +1,6 @@
+This Excel file contains the following Various types of functions and their seprate practice sheet in one workbook.
+The topics with the subtopic is mentioned below.
+The practice sheet contains all types and various types of functions, formulas and user defined formula while learning.
 ## Functions
 - Basics of Functions
 - Formula Tab
@@ -25,6 +28,16 @@
   - VLOOKUP
   - HLOOKUP
 - Text 
+  - Extraction
+  - Split
+  - Combination
+  - Right
+  - Find
+  - Mid
+  - Unique
+  - Transpose
+  - CountIF
+  - Dashboard & Analysis
 - Statistical Functions
   - Counts (COUNT, COUNTIF, COUNTIFS)
   - Average (AVERAGE, AVERAGEIF, AVERAGEIFS)
