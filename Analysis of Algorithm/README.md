@@ -6,3 +6,11 @@ This part covers the analysis of:
 - Arrays
 - Charts 
 - Diagrams
+
+## Time Complexity
+- Liner Search
+- Binary Search
+- Loops 
+- Recurssive Functions 
+- Algorithms
+- Sorting Algorithms
