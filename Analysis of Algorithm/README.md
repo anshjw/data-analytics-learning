@@ -17,4 +17,4 @@ This part covers the analysis of:
   - Merge Sort
   - Heap Sort
   - Bubble Sort
-  
+  - Quick Sort
