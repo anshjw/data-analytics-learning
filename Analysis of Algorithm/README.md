@@ -14,3 +14,7 @@ This part covers the analysis of:
 - Recurssive Functions 
 - Algorithms
 - Sorting Algorithms
+  - Merge Sort
+  - Heap Sort
+  - Bubble Sort
+  
