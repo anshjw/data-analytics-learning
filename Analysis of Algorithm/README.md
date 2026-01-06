@@ -18,3 +18,7 @@ This part covers the analysis of:
   - Heap Sort
   - Bubble Sort
   - Quick Sort
+
+## Methods of Calculating Time Complexity
+- Back Substitution 
+- Master's Theorem
