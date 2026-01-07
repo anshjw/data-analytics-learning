@@ -34,5 +34,8 @@ This part covers the analysis of:
 - Graphs
 - Recurssive definition of tree
 - Implementation of Tree
+
+---
+
 This Folder contains the Total learning phase of analysis of algorithm along with the Codes, programs, visualisation, algorithms, logics, and many related things.
 To know the details about every thing refer to the attached pdf for notes.
