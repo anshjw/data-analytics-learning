@@ -14,5 +14,9 @@ This Folder Structure contains:
 ---
 
 ## Topics
-- Economics
-- BUsiness 
+- What is Economics
+- Business Definition
+- Industrial Economics/ Managerial Economics/ Business Economics
+- Business Model
+- Basic problems of Economy
+- Application of Industrial Economics
