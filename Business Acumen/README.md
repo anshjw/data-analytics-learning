@@ -20,3 +20,8 @@ This Folder Structure contains:
 - Business Model
 - Basic problems of Economy
 - Application of Industrial Economics
+- Law of Demand
+- Assumptions for law of demand
+- Demand Schedule
+- Demand Function
+- Limitation of Law Of Demand
