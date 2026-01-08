@@ -81,3 +81,7 @@ The practice sheet contains all types and various types of functions, formulas a
 - Delete the selected Data
 - Now do Practice According to you 
 - Push Your Progress To Git Hub
+
+---
+
+Their are huge categories of functions some of most important and hard ones I have covered in this practice session the remaining functions and formulas can be explored and covered through the more functions from formula ribbon in the excel and also functions tab in the formula ribbon.
