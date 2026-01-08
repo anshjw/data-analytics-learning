@@ -1,6 +1,9 @@
 This Excel file contains the following Various types of functions and their seprate practice sheet in one workbook.
 The topics with the subtopic is mentioned below.
 The practice sheet contains all types and various types of functions, formulas and user defined formula while learning.
+
+---
+
 ## Functions
 - Basics of Functions
 - Formula Tab
@@ -58,6 +61,8 @@ The practice sheet contains all types and various types of functions, formulas a
 - How to Make the New Functions if they doesn't Exist
 - More Functions
 
+---
+
 ## Errors
 - Which types of errors are there
 - How to know them
@@ -65,6 +70,8 @@ The practice sheet contains all types and various types of functions, formulas a
 - How to tackel them 
 - Use Chatbots to take help for Errors
 - Example if functions is trying to devide the number by zero (#DIV/0!)
+
+---
 
 ## How to use the Excel File?
 - First Download the Raw File 
