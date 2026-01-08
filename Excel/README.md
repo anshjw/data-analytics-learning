@@ -52,6 +52,8 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - View
 - Help
 
+---
+
 ## Shortcuts
 - Clipboard Actions
   - Ctrl + C = Copy
@@ -82,6 +84,8 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Ctrl + End = Move to the last cell with content 
   - Ctrl + PageUp/Down = Move betwwen Worksheet tabs
   - Ctrl + Shift + U = Incrase the height of formula bar
+
+---
 
 ## Formulas
 - Formulas Intro/Basics

@@ -74,14 +74,16 @@ The practice sheet contains all types and various types of functions, formulas a
 ---
 
 ## How to use the Excel File?
-- First Download the Raw File 
-- Open the Excel File And Click Autosave
-- Analyse How things Are calculated By formulas
-- Select the Data only outside the 
-- Delete the selected Data
-- Now do Practice According to you 
-- Push Your Progress To Git Hub
+- First download the Raw File 
+- Open the excel file And click "Autosave"
+- Analyse how things are calculated by formulas
+- Select the data only outside the table
+- Delete the selected data
+- Now do practice according to you 
+- Push your progress to Git Hub
 
 ---
 
-Their are huge categories of functions some of most important and hard ones I have covered in this practice session the remaining functions and formulas can be explored and covered through the more functions from formula ribbon in the excel and also functions tab in the formula ribbon.
+Their are huge categories of functions some of most important and hard ones I have covered in this practice session the remaining 
+functions and formulas can be explored and covered through the more functions from formula ribbon in the excel and also functions 
+tab in the formula ribbon.
