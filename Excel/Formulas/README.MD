@@ -16,10 +16,10 @@
 - Formula Tab
 
 ## How to use the Excel File?
-- First Download the Raw File 
-- Open the Excel File And Click Autosave
-- Analyse How things Are calculated By formulas
-- Select the Data only outside the 
-- Delete the selected Data
-- Now do Practice According to you 
-- Push Your Progress To Git Hub
+- First download the raw file 
+- Open the excel file and click autosave
+- Analyse how things are calculated by formulas
+- Select the data only outside the table 
+- Delete the selected data
+- Now do practice according to you 
+- Push your progress to git hub

@@ -87,7 +87,7 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 
 ---
 
-## Formulas
+## Formulas & Functions
 - Formulas Intro/Basics
 - Functions Intro/Basics
 - Logical Functions
