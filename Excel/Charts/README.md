@@ -8,6 +8,7 @@
   The Advanced customisation & Charts:
   - Scatter Charts
   - Map Charts
+    - How to analyse data using maps
   - Advanced & 3D charts Customisation
 - Charts Statistics
   Statistical Customisation & importance of charts
