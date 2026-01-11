@@ -7,6 +7,7 @@
 - Charts Advanced
   The Advanced customisation & Charts:
   - Scatter Charts
+    - Customisation and advanced manipulation
   - Map Charts
     - How to analyse data using maps
   - Advanced & 3D charts Customisation
