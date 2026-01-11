@@ -38,4 +38,4 @@
 - Select the charts 
 - Delete them
 - Now do Practice according to you by adding various types of charts
-- Push your progress to Git Hub
+- Push your progress to Git Hub 
