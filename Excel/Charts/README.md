@@ -14,8 +14,8 @@
 - Charts Statistics
   Statistical Customisation & importance of charts
   Along with the:
-  - Histograms
-  - Box charts
+  - Histograms (Manipulation)
+  - Box charts (types)
   - Viscor charts
 - Sparklines
   Charts inside individual cells so the visualisatuion may get easier and be in table format for individual row.
