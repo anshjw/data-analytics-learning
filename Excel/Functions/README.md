@@ -74,7 +74,7 @@ The practice sheet contains all types and various types of functions, formulas a
 ---
 
 ## How to use the Excel File?
-- First download the Raw File 
+- First download the "Raw File" 
 - Open the excel file And click "Autosave"
 - Analyse how things are calculated by formulas
 - Select the data only outside the table

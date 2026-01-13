@@ -34,7 +34,7 @@
 ---
 
 ## How to use the Excel File?
-- First download the Raw File 
+- First download the "Raw File" 
 - Open the excel file and click "Autosave"
 - Analyse how things are actually visualised
 - Select the charts 

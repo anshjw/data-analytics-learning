@@ -16,7 +16,7 @@
 - Formula Tab
 
 ## How to use the Excel File?
-- First download the raw file 
+- First download the "Raw File" 
 - Open the excel file and click autosave
 - Analyse how things are calculated by formulas
 - Select the data only outside the table 
