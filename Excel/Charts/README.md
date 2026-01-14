@@ -16,7 +16,7 @@
   Along with the:
   - Histograms (Manipulation)
   - Box charts (types)
-  - Viscor charts
+  - Whisker's charts
 - Sparklines
   Charts inside individual cells so the visualisatuion may get easier and be in table format for individual row.
 
