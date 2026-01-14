@@ -18,6 +18,9 @@
   - Box charts (types)
   - Whisker's charts
 - Sparklines
+  - Line 
+  - Column/bar
+  - Win/Loss
   Charts inside individual cells so the visualisatuion may get easier and be in table format for individual row.
 
 ---
