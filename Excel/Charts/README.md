@@ -39,5 +39,5 @@
 - Analyse how things are actually visualised
 - Select the charts 
 - Delete them
-- Now do Practice according to you by adding various types of charts
-- Push your progress to Git Hub 
+- Now do practice according to you by adding various types of charts
+- Push your progress to Git Hub (Very important)
