@@ -34,7 +34,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 - Data cleaning and formatting
 - Logical formulas (IF, COUNTIF, SUMIF)
 - Lookups (VLOOKUP / XLOOKUP)
-- Pivot Tables
+- Tables & Pivot Tables
 - Charts and dashboards
 - Business-style reporting
 
