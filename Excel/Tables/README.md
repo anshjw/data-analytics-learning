@@ -6,3 +6,14 @@
 - Use with formulae
 - Table Formulae
 - Advanced customisation
+ 
+## Table Formulae
+- Aggregate
+- Subtotal
+- Sum
+- Count
+- Min
+- Max
+- Std dev
+- More Functions According top the need 
+- Customised formulas
