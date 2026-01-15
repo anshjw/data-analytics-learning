@@ -97,3 +97,27 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Lookup Functions
 - Text Functions
 - Date & Time
+
+## Charts 
+- Basic Charts
+  - Line Chart 
+  - Column Chart
+  - Bar Chart
+- Advanced Charts
+  - Scatter Chart/Plot
+  - Maps
+- statistical Charts
+  - Box Plot
+  - Whisker's Chart
+- Sparklines 
+  - Column
+  - Bar
+  - Win/Loss
+Charts Customisation and advnced analysis for data visualisation with cathing and suitable title naming
+
+## Tables 
+- Defining tables 
+- Table formulae
+- Table application
+- Table imporatance
+- Total 
