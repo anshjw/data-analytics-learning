@@ -6,4 +6,3 @@
 - Use with formulae
 - Table Formulae
 - Advanced customisation
-
