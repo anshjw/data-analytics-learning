@@ -21,6 +21,8 @@ This part covers the analysis of:
   - Bubble Sort
   - Quick Sort
   - Selection sort
+  - Insertion sort
+  
 
 ---
 
