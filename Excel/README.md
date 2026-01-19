@@ -121,3 +121,4 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Table application
 - Table imporatance
 - Total 
+- Limitations
