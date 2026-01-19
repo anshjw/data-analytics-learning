@@ -20,6 +20,9 @@ This part covers the analysis of:
   - Heap Sort
   - Bubble Sort
   - Quick Sort
+  - Selection sort
+  - Insertion sort
+  
 
 ---
 
