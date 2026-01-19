@@ -6,6 +6,7 @@
 - Use with formulae
 - Table Formulae
 - Advanced customisation
+- Table Limitations
  
 ## Table Formulae
 - Aggregate
