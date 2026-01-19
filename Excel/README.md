@@ -122,3 +122,11 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Table imporatance
 - Total 
 - Limitations
+
+## Formatting 
+- Basic formatting
+- Cell formatting
+- Conditional formatting 
+- Highlightining
+- Dynamic Updation
+- Clear/Delete
