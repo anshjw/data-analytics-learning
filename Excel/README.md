@@ -129,4 +129,4 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Conditional formatting 
 - Highlightining
 - Dynamic Updation
-- Clear/Delete
+- Clear/Delete formatting
