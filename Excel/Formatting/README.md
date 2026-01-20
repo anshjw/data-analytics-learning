@@ -17,7 +17,7 @@
 - Clear Formats 
 - More
 
-## Not to do
+## What Not to do?
 - Over shading
 - Color grading the table 
 - Uneccesary conditioning
