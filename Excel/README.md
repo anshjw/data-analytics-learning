@@ -32,6 +32,9 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - How to move Data From Copy & Paste
   - Move or Copy
   - By Formula
+- Hide and unhide the sheets 
+- Cell naming
+- File naming
 
 ---
 
@@ -48,6 +51,10 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Page Layout
 - Formulas
 - Data
+  - Data validation 
+  - Types of data
+  - Data manipulation
+  - Many more features
 - Review
 - View
 - Help
@@ -130,3 +137,12 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Highlightining
 - Dynamic Updation
 - Clear/Delete formatting
+
+## Collaboration
+- Data collaboration
+- Sheet data collaboration
+- Calculation with collaboration
+- Validation
+- Salary calculation
+- Calculator devlopment
+- Data protection (From co-worker's)
