@@ -20,6 +20,7 @@
 - Clear formats 
 - Manage rules
 - New rules
+  - Customise the rules according to the need
 
 ## What Not to do?
 - Over shading
