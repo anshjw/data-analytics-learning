@@ -1,7 +1,7 @@
-#### Data sciendce salary dashboard
+## Data sciendce salary dashboard
 This dashboard contains the visulaisation and analysis of the data science job salary and all the requirements needed to get the job along with what parameters take more job in where and how much is the demand of different titles in the different regoin.
 
-### Topics required to build 
+## Topics required to build 
 - Basic excel
 - Data manipulation
 - Sheet and workbook handling
