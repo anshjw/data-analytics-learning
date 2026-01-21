@@ -11,11 +11,15 @@
 - Highlight cell rules
 - Top/Bottom rules
 - Icon sets 
+  - More rules
 - Color scales
+  - More rules
 - Data bars
-- Format Tables 
-- Clear Formats 
-- More
+  - More rules
+- Format tables 
+- Clear formats 
+- Manage rules
+- New rules
 
 ## What Not to do?
 - Over shading
