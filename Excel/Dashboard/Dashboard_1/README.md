@@ -25,3 +25,4 @@ This dashboard contains the visulaisation and analysis of the data science job s
 - Visually represented data
 - BI analysis using excel
 - Estimate salary according to the profession
+
