@@ -156,4 +156,4 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
   - Advanced spreadsheet
   - Formulas
   - Functions
-- 
+- Dashboard 2
