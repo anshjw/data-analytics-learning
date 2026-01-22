@@ -26,3 +26,11 @@ This dashboard contains the visulaisation and analysis of the data science job s
 - BI analysis using excel
 - Estimate salary according to the profession
 
+## How to use the Excel File?
+- First download the "Raw File" 
+- Open the excel file And click "Autosave"
+- Right click on the sheet
+- Unhide all the sheets
+- Analyse how things are calculated
+- Now do practice according to you 
+- Push your progress to Git Hub(imp)
