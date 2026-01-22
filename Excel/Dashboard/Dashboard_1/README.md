@@ -16,6 +16,7 @@ This dashboard contains the visulaisation and analysis of the data science job s
 - Customisation
 - Lookups
 - Security & locking
+- Key performance indicator(KPI)
 
 ## Specialisation & Aim
 - Helps to find the Job requiremnts based on vaiours categories
