@@ -4,7 +4,15 @@
 - What is pivot
 - How to create pivot tables
 - Pivot from insert ribbon
-- Customisation of the tables
+- Pivot table analyse ribbon
+- Customisation of the tables using design ribbon
+- Naming the pivot tables
+- Refresh
+- Change data source
+- Actions
+- Feild list
+- Feild Header
+- Buttons
 
 ## How to use the Excel File?
 - First download the "Raw File" 
