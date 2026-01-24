@@ -4,6 +4,25 @@ The practice sheet contains all types and various types of functions, formulas a
 
 ---
 
+## Formulas
+- Mathematical Formulas
+  - Addition (+)    
+  - Subtraction (-)
+  - Multiplication (*)
+  - Division (/)
+  - Arithmetic Operations
+- Comparision Formulas
+  - Greater than (>)
+  - Less than (<)
+  - Greater than equals to (>=)
+  - Less than equals to (<=)
+  - Equlas to (=)
+  - Not equals to (<>)
+- Cell Refrencing 
+- Formula Tab
+
+---
+
 ## Functions
 - Basics of Functions
 - Formula Tab
