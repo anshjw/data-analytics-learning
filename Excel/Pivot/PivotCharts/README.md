@@ -16,6 +16,9 @@
 - Chart options
 - Slicers
 - Timelines
+- Slicer ribbon
+- Timeline ribbon
+- Connections between timeline and slicer
 
 ## How to use the Excel File?
 - First download the "Raw File" 
