@@ -157,3 +157,8 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
   - Formulas
   - Functions
 - Dashboard 2
+
+## Pivot 
+- Pivot Intro
+- Pivot Table Advanced
+- Pivot Charts
