@@ -15,6 +15,7 @@
 - Lable Filters
 - Chart options
 - Slicers
+- Timelines
 
 ## How to use the Excel File?
 - First download the "Raw File" 
