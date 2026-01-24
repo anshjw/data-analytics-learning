@@ -1,0 +1,26 @@
+## Pivot Table Advanced
+- Hierarchy
+- Grouping the data
+- Automatic grouping
+- Percent
+- Showing
+- Subtotal
+  - Do not show subtotal
+  - Show at the bottom of the group
+  - Show at the top of the group
+- Grandtotal
+  - Off for rows and columns
+  - On for rows and columns
+  - On for rows only
+  - ON for columns only
+- Report Layout
+  - Compact form
+  - Outline form
+  - Tabular form
+  - Repeat item lables
+  - Do not repeat lables
+- Blank rows
+  - Insert after each item
+  - Delete after each item
+- Show values in diffrent types
+- Advnaced cutomisation on the basis requirement
