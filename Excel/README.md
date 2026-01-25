@@ -162,3 +162,9 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Pivot Intro
 - Pivot Table Advanced
 - Pivot Charts
+
+## Advanced analysis
+- Add-ins
+- Goal seek
+- Data table
+- Forecast
