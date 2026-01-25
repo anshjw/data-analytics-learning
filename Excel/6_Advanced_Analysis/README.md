@@ -20,3 +20,22 @@
 - How to use different add-ins
 - How many add-ins work with excel
 - Solver add-in
+
+## Data Tables
+- What-if-analysis
+- Data tables
+- Table manipulation
+- Workbook calculations 
+- Tables design ribbon
+- Conditional formatting
+- Data table using one input
+- Data table using two inputs
+
+## How to use the Excel File?
+- First download the "Raw File" 
+- Open the excel file And click "Autosave"
+- Analyse how things are calculated by formulas
+- Select the data only outside the table
+- Delete the selected data
+- Now do practice according to you 
+- Push your progress to Git Hub
