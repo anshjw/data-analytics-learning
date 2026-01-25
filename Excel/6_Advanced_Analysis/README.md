@@ -31,6 +31,18 @@
 - Data table using one input
 - Data table using two inputs
 
+## Analysis ToolPak
+- Statistical tool
+- Advanced customisation on histograms
+- Ranking & Assigning percentile 
+- Moving avrerage(Remove seasonability from job trends)
+- EDA on salary data
+- Data analysis tool pak
+- Desciptive statistics 
+- probablity 
+- Sampling
+- Correlation & covairance
+
 ## How to use the Excel File?
 - First download the "Raw File" 
 - Open the excel file And click "Autosave"
