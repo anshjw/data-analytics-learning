@@ -47,4 +47,5 @@
   - Data source settings
   - Query options
   - Load to..
-  
+
+## Power Query Editor
