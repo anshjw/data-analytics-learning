@@ -10,3 +10,41 @@
 ## Power Query Intro
 - Data soruce connectivity
 - What is power query
+- Why we need power query
+  - Automation of ETL
+  - Reproducibility of data transformations
+  - Exceeds 1 million row limit of excel
+- Data ribbon 
+  - Get data
+    - File
+      - Excel workbook
+      - PDF
+      - Folder
+      - Text/CSV
+      - JSON
+      - XML
+    - Database
+      - SQL server databse
+      - Microsoft access database
+      - Analysis service
+      - SQL server analysis service database
+    - Azure
+    - Fabric & power platform
+      - Lakehouse
+      - Warehouse
+      - Dataflows
+      - Dataverse
+    - Other service
+      - Blank query
+      - OLEDB
+      - ODBC
+      - OData feed
+      - Web 
+    - Combine Queries
+      - Merge 
+      - Append 
+  - Launch power query editor
+  - Data source settings
+  - Query options
+  - Load to..
+  
