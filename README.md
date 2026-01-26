@@ -37,6 +37,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 - Tables & Pivot Tables
 - Charts and dashboards
 - Business-style reporting
+- Power query & Power pivot
 
 ---
 
