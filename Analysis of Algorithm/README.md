@@ -37,6 +37,10 @@ This part covers the analysis of:
 - Graphs
 - Recurssive definition of tree
 - Implementation of Tree
+- Binary Search Tree 
+- Iterative binary search tree
+- Balanced tree
+- AVL tree
 
 ---
 
