@@ -58,3 +58,26 @@
 - Source 
 - Power query editor view ribbon
 - Query settings
+  - Change name
+  - Applied steps
+- Home Ribbon
+  -Transform section
+    - Change data type 
+  - Close & Load/Load To..
+  - Refresh
+  - Advanced editor
+  - Properties
+  - Manage
+  - Choose column/Go to column
+  - Remove columns
+  - Revert the changes
+  - Sorting
+- Transform Ribbon
+  - Transform to any type of column
+  - Replace columns
+  - Rename Steps
+- Add column Ribbon
+  - Insert columns
+  - Add numerical column
+  - Move column/Reoreder columns
+- Exploratory Data Analysis
