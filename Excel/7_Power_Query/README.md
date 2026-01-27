@@ -49,3 +49,8 @@
   - Load to..
 
 ## Power Query Editor
+- How to transform data
+- Power query tab
+- Query settings
+- All properties
+- Transform ribbon
