@@ -54,3 +54,7 @@
 - Query settings
 - All properties
 - Transform ribbon
+- Power Pivot
+- Source 
+- Power query editor view ribbon
+- Query settings
