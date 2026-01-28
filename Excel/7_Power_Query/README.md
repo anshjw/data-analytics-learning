@@ -82,6 +82,11 @@
   - Move column/Reoreder columns
 - Exploratory Data Analysis
 
+## Advanced Transformation
+- Visualise Big Dataset
+- Clean big dataset simultaneously
+- Power query to data cleaning
+
 ## How to use the Excel File?
 - First download the "Raw File" 
 - Open the excel file And click "Autosave"
