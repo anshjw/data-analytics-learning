@@ -41,6 +41,7 @@ This part covers the analysis of:
 - Iterative binary search tree
 - Balanced tree
 - AVL tree
+- Balance Factor
 
 ---
 
