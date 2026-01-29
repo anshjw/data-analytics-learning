@@ -7,6 +7,8 @@
 - Extract Transform Load(ETL)
 - Data base Connectivity
 
+---
+
 ## Power Query Intro
 - Data soruce connectivity
 - What is power query
@@ -48,6 +50,8 @@
   - Query options
   - Load to..
 
+---
+
 ## Power Query Editor
 - How to transform data
 - Power query tab
@@ -82,6 +86,8 @@
   - Move column/Reoreder columns
 - Exploratory Data Analysis
 
+---
+
 ## Advanced Transformation
 - Visualise Big Dataset
 - Clean big dataset simultaneously
@@ -97,6 +103,25 @@
 - Group by
 - Conditional columns
 
+---
+
+## Append vs Merge
+- Append
+  - Append using PQ home ribbon
+  - Append queries
+  - Append queries as new
+  - Join all the datasheet
+- Merge
+  - Power query joins
+    - LEFT OUTER
+    - RIGHT OUTER
+    - FULL OUTER
+    - INNER
+    - LEFT ANTI
+    - RIGHT ANTI
+
+---
+
 ## How to use the Excel File?
 - First download the "Raw File" 
 - Open the excel file And click "Autosave"
@@ -105,3 +130,4 @@
 - Delete the selected data
 - Now do practice according to you 
 - Push your progress to Git Hub
+---
