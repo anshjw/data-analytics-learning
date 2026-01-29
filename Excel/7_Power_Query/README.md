@@ -124,6 +124,7 @@
   - Expand
   - Aggregate
   - Fuzzy matching
+  - Combination charts
 
 ---
 
