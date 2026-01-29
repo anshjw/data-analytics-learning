@@ -95,6 +95,7 @@
 - Analyse new query(clean up text data)
 - Text/format transformation
 - Group by
+- Conditional columns
 
 ## How to use the Excel File?
 - First download the "Raw File" 
