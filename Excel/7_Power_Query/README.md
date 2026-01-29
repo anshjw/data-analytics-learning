@@ -91,7 +91,7 @@
 - Create a skill query
   - Duplicate
   - Reference
-- Split & umpivot columns
+- Split & unpivot columns
 - Analyse new query(clean up text data)
 - Text/format transformation
 - Group by

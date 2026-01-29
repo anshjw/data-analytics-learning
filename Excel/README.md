@@ -105,6 +105,8 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
 - Text Functions
 - Date & Time
 
+---
+
 ## Charts 
 - Basic Charts
   - Line Chart 
@@ -122,6 +124,8 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Win/Loss
 Charts Customisation and advnced analysis for data visualisation with cathing and suitable title naming
 
+---
+
 ## Tables 
 - Defining tables 
 - Table formulae
@@ -130,6 +134,8 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Total 
 - Limitations
 
+---
+
 ## Formatting 
 - Basic formatting
 - Cell formatting
@@ -137,6 +143,8 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Highlightining
 - Dynamic Updation
 - Clear/Delete formatting
+
+---
 
 ## Collaboration
 - Data collaboration
@@ -148,6 +156,33 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 - Data protection (From co-worker's)
 - Data security using review ribbon
 
+---
+
+## Pivot 
+- Pivot Intro
+- Pivot Table Advanced
+- Pivot Charts
+
+---
+
+## Advanced analysis
+- Add-ins
+- Goal seek
+- Data table
+- Forecast
+
+---
+
+## Power Query
+- Power Query Intro
+- Power Query Editor
+- Advanced Transformation
+- Append vs Merge
+- M Language
+- Extract Transform Load(ETL)
+
+---
+
 ## Dashboards
 - Dashboard 1
   - Basics
@@ -158,21 +193,4 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
   - Functions
 - Dashboard 2
 
-## Pivot 
-- Pivot Intro
-- Pivot Table Advanced
-- Pivot Charts
-
-## Advanced analysis
-- Add-ins
-- Goal seek
-- Data table
-- Forecast
-
-## Power Query
-- Power Query Intro
-- Power Query Editor
-- Advanced Transformation
-- Append vs Merge
-- M Language
-- Extract Transform Load(ETL)
+---
