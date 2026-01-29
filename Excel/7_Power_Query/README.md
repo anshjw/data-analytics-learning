@@ -112,6 +112,8 @@
   - Append queries as new
   - Join all the datasheet
 - Merge
+  - Merge queries
+  - Merge queries as new
   - Power query joins
     - LEFT OUTER
     - RIGHT OUTER
@@ -119,6 +121,9 @@
     - INNER
     - LEFT ANTI
     - RIGHT ANTI
+  - Expand
+  - Aggregate
+  - Fuzzy matching
 
 ---
 
