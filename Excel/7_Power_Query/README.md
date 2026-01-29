@@ -86,6 +86,15 @@
 - Visualise Big Dataset
 - Clean big dataset simultaneously
 - Power query to data cleaning
+- Power query editor ribbon
+- Adding Index Column 
+- Create a skill query
+  - Duplicate
+  - Reference
+- Split & umpivot columns
+- Analyse new query(clean up text data)
+- Text/format transformation
+- Group by
 
 ## How to use the Excel File?
 - First download the "Raw File" 
