@@ -146,13 +146,14 @@
 - Clean up column
 - Replace values
 
+---
 
 ## How to use the Excel File?
 - First download the "Raw File" 
 - Open the excel file And click "Autosave"
-- Analyse how things are calculated by formulas
-- Select the data only outside the table
+- Analyse how things are calculated
 - Delete the selected data
 - Now do practice according to you 
 - Push your progress to Git Hub
+
 ---

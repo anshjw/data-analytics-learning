@@ -3,6 +3,8 @@
 - Data Tables
 - Analysis ToolPak
 
+---
+
 ## Analysis Add-ins
 - What are excel add-ins
 - What-if-analysis
@@ -21,6 +23,8 @@
 - How many add-ins work with excel
 - Solver add-in
 
+---
+
 ## Data Tables
 - What-if-analysis
 - Data tables
@@ -30,6 +34,8 @@
 - Conditional formatting
 - Data table using one input
 - Data table using two inputs
+
+---
 
 ## Analysis ToolPak
 - Statistical tool
@@ -43,11 +49,14 @@
 - Sampling
 - Correlation & covairance
 
+---
+
 ## How to use the Excel File?
 - First download the "Raw File" 
 - Open the excel file And click "Autosave"
-- Analyse how things are calculated by formulas
-- Select the data only outside the table
+- Analyse how things are calculated
 - Delete the selected data
 - Now do practice according to you 
 - Push your progress to Git Hub
+
+---
