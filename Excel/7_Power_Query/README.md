@@ -143,6 +143,8 @@
     - OData feed
     - OLE DB
     - Blank query
+- Clean up column
+- Replace values
 
 
 ## How to use the Excel File?
