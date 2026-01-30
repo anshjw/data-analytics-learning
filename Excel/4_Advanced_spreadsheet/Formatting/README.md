@@ -7,6 +7,8 @@
 - Conditioning
 - Dynamic Updates
 
+---
+
 ## Conditional Formatting
 - Highlight cell rules
 - Top/Bottom rules
@@ -22,11 +24,15 @@
 - New rules
   - Customise the rules according to the need
 
+---
+
 ## What Not to do?
 - Over shading
 - Color grading the table 
 - Uneccesary conditioning
 - Not essential maping
+
+---
 
 ## How to use the Excel File?
 - First download the "Raw File" 
@@ -36,3 +42,5 @@
 - Delete them
 - Now do practice according to you by adding various types of charts
 - Push your progress to Git Hub (Very important)
+
+---

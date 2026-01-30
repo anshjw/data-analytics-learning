@@ -13,6 +13,8 @@
 - Sheet security using review ribbon
 - Workbook protection 
 
+---
+
 ## How to use the Excel File?
 - First download the "Raw File" 
 - Open the excel file and click "Autosave"
