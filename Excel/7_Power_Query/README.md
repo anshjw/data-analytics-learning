@@ -129,7 +129,21 @@
 ---
 
 ## M Language
+- What is m language
 - Building power queries by m language
+- Advanced editor in PQ editor
+- Invoke custom function
+- Custom columm
+- Column for examples
+- New source
+  - File
+  - Database
+  - Other source
+    - Web
+    - OData feed
+    - OLE DB
+    - Blank query
+
 
 ## How to use the Excel File?
 - First download the "Raw File" 
