@@ -91,6 +91,7 @@ This folder contains excel files, dashboard, Files, workbooks, worksheets, scree
   - Ctrl + End = Move to the last cell with content 
   - Ctrl + PageUp/Down = Move betwwen Worksheet tabs
   - Ctrl + Shift + U = Incrase the height of formula bar
+  - Alt + F12 = Power query editor
 
 ---
 
@@ -191,6 +192,5 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
   - Advanced spreadsheet
   - Formulas
   - Functions
-- Dashboard 2
 
 ---
