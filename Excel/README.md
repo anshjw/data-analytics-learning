@@ -184,6 +184,14 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 
 ---
 
+## Power Pivot
+- Power pivot intro
+- power pivot window
+- DAX intro
+- DAX advanced
+
+---
+
 ## Dashboards
 - Dashboard 1
   - Basics
