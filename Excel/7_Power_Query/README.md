@@ -134,7 +134,7 @@
 - Advanced editor in PQ editor
 - Invoke custom function
 - Custom columm
-- Column for examples
+- Column from examples
 - New source
   - File
   - Database
@@ -145,6 +145,7 @@
     - Blank query
 - Clean up column
 - Replace values
+- Editing language
 
 ---
 
