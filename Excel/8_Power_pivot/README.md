@@ -65,3 +65,13 @@
 - Limitations of exce
 
 ---
+
+## Power pivot window
+- Import and clean data model
+- Change data types
+- Measures intro
+- Count/distinct count
+- Implicit and explicit measure
+- Currency conversion
+- Date tables
+- 
