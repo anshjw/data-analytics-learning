@@ -94,3 +94,8 @@
 - Correlation using DAX
 - Create measures
 - Edit/delete measures
+
+## DAX Advanced
+- Realationships
+- Crossfilters
+- Relationship functions
