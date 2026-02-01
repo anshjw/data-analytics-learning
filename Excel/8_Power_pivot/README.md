@@ -78,3 +78,19 @@
 ---
 
 ## DAX Intro (Data Analytical Expression)
+- What is DAX
+- Functions
+  - Aggregation
+    - Count
+    - Distinctcount
+    - Divide
+  - Statistics
+    - Median
+  - Filter
+    - Calculate
+  - Other Functions Like 2_Functions_&_Formulas
+- Skills & salary analysis
+- Graphs & charts using DAx
+- Correlation using DAX
+- Create measures
+- Edit/delete measures
