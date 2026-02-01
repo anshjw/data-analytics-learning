@@ -74,4 +74,7 @@
 - Implicit and explicit measure
 - Currency conversion
 - Date tables
-- 
+
+---
+
+## DAX Intro (Data Analytical Expression)
