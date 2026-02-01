@@ -12,7 +12,7 @@
 - Power pivot ribbon
 - Power pivot editor
 - Advanced editor
-- Data analytical expression
+- Data analysis expression
 - Pivot table of pivot table/data model
 - Formulas & functions of the power pivot
 
@@ -77,7 +77,7 @@
 
 ---
 
-## DAX Intro (Data Analytical Expression)
+## DAX Intro (Data Analysis Expression)
 - What is DAX
 - Functions
   - Aggregation
@@ -99,3 +99,21 @@
 - Realationships
 - Crossfilters
 - Relationship functions
+- Overcome excel limitations
+- Make bidirectional relationship
+- Slicer connections
+- Pivot charts connectivity
+- Pivot table interconnectivity
+- Explicit measures
+
+---
+
+## How to use the Excel File?
+- First download the "Raw File" 
+- Open the excel file And click "Autosave"
+- Analyse how things are calculated
+- Delete the selected data
+- Now do practice according to you 
+- Push your progress to Git Hub
+
+---
