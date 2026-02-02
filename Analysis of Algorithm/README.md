@@ -42,6 +42,7 @@ This part covers the analysis of:
 - Balanced tree
 - AVL tree
 - Balance Factor
+- Bubble sort & Advanced bubble sort
 
 ---
 
