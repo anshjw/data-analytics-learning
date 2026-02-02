@@ -1,9 +1,11 @@
 # Excel
-
-This contains all the learning notes, changes continous assesments and many more. 
-This folder contains excel files, dashboard, Files, workbooks, worksheets, screenshots, Ribbons, etc.
-
 ---
+## Project 1-Dashboard  
+This dashboard contains the visulaisation and analysis of the data science job salary and all the requirements needed to get the job along with what parameters take more job in where and how much is the demand of different titles in the different regoin.  
+![alt text](0_Resources/Images/Recording2026-02-02203523-ezgif.com-video-to-gif-converter.gif)
+---
+## Project 2-Analysis  
+
 
 ## Tools and Technology learned
 - Download and installation
