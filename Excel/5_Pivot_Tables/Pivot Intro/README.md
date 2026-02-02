@@ -1,4 +1,4 @@
-## Pivot Intro
+# Pivot Intro
 - Pivot basics
 - Pivot elements
 - What is pivot

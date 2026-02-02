@@ -1,4 +1,4 @@
-## Pivot 
+# Pivot 
 - Pivot INtro
 - Pivot Table Advanced
 - Pivot Charts

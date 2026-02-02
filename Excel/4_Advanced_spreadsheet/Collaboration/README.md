@@ -1,4 +1,4 @@
-## Collaboration
+# Collaboration
 - Data collaboration
 - Sheet collaboration
 - Data manipulation over multiple sheets

@@ -1,4 +1,4 @@
-## Pivot Charts
+# Pivot Charts
 - Pivot charts
 - More sorting options
 - Insert Pivot Chart & Table

@@ -1,4 +1,4 @@
-## Pivot Table Advanced
+# Pivot Table Advanced
 - Hierarchy
 - Grouping the data
 - Automatic grouping

@@ -1,4 +1,4 @@
-## Tables in excel
+# Tables in excel
 - Table creation
 - table application
 - Table importance

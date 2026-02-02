@@ -1,4 +1,4 @@
-## Power Query
+# Power Query
 - Power Query Intro
 - Power Query Editor
 - Advanced Transformation

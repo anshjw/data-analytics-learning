@@ -1,4 +1,4 @@
-## Excel
+# Excel
 
 This contains all the learning notes, changes continous assesments and many more. 
 This folder contains excel files, dashboard, Files, workbooks, worksheets, screenshots, Ribbons, etc.
@@ -192,8 +192,8 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 
 ---
 
-## Dashboards
-- Dashboard 1
+
+## Project 1-Dashboard 
   - Basics
   - Data science salary dashboard
   - Charts
@@ -202,3 +202,5 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
   - Functions
 
 ---
+
+## Project 2-Analysis 

@@ -1,4 +1,4 @@
-## Formatting topics
+# Formatting topics
 - Basic formatting
 - Cell formatting
   - Using home tab 

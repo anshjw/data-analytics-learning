@@ -1,4 +1,4 @@
-## Charts in Excel
+# Charts in Excel
 - Charts Intro
   Basic Charts & their customisation:
   - Line Chart
