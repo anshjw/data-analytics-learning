@@ -1,22 +1,27 @@
 # Excel
-## Project 1-Dashboard  
+## Dashboard  
 This dashboard contains the visulaisation and analysis of the data science job salary and all the requirements needed to get the job along with what parameters take more job in where and how much is the demand of different titles in the different regoin.  
 ![alt text](0_Resources/Images/Recording2026-02-02203523-ezgif.com-video-to-gif-converter.gif)  
 [Cheack Out My Work Here](Project_1-Dashboard)  
 ---
-## Project 2-Analysis  
 
+## Learning Credits
+This Excel course helps me alot to learn excel from basics to advanced level using power queries.
+All Thanks to Sir [Luke Barousse](https://www.linkedin.com/in/luke-b) 
+[![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)  
+---
 
 ## Tools and Technology learned
 - Download and installation
 - What are worksheets & workbook 
 - Tables
-- Pivot tables
+- Pivot tables & charts
 - Lookups (VLOOKUP, HLOOKUP, XLOOKUP)
 - Functions (IF, COUNTIF, COUNT......)
 - Sorting & Filtering
 - Charts & Dashboards
-- Microproject
+- Power query & power pivot 
+- DAX
 
 ---
 
@@ -206,3 +211,11 @@ Charts Customisation and advnced analysis for data visualisation with cathing an
 ---
 
 ## Project 2-Analysis 
+  - Pivot Tables
+  - Pivot Charts
+  - Power Query
+  - Advanced Analysis
+  - Power Pivot
+  - DAX 
+
+---

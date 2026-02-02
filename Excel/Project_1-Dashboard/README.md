@@ -37,6 +37,12 @@ This dashboard contains the visulaisation and analysis of the data science job s
 
 ---
 
+## Conclusion
+
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+
+---
+
 ## How to use the Excel File?
 - First download the "Raw File" 
 - Open the excel file And click "Autosave"
