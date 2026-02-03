@@ -2,7 +2,7 @@
 
 This repository documents my structured and long-term learning journey in **Data Analytics** with the goal of becoming a **Full-Stack Data Analyst**.
 
-It covers not only core analytics skills, but also supporting areas such as **AI-assisted analytics, data engineering fundamentals, and business acumen**, enabling flexibility across multiple analyst and data roles.
+It covers not only core analytics skills, but also supporting areas such as **AI-assisted analytics, data engineering fundamentals, and business acumen**, enabling flexibility across multiple analyst and data roles. 
 
 ---
 
@@ -38,16 +38,6 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 - Charts and dashboards
 - Business-style reporting
 - Power query & Power pivot
-
----
-
-### 3️⃣ Statistics for Data Analytics
-- Measures of central tendency
-- Variance & standard deviation
-- Correlation and relationships
-- Probability fundamentals
-- Normal distribution
-- Interpreting statistical results for business decisions
 
 ---
 
@@ -91,26 +81,6 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ---
 
-### 8️⃣ Data Engineering Basics (Foundational)
-- What is Data Engineering?
-- Difference between Data Analyst & Data Engineer
-- Data pipelines (basic concepts)
-- ETL vs ELT
-- Databases & data storage concepts
-- Understanding how analytics fits into larger data systems
-
----
-
-### 9️⃣ Business Acumen & Analytics Thinking
-- Understanding business problems
-- Translating business questions into data questions
-- KPIs and metrics
-- Stakeholder communication
-- Decision-making using data
-- Analytics use-cases across industries
-
----
-
 ### 🔟 Tools, Workflow & Deployment
 - Git & GitHub for version control
 - Kaggle for datasets and notebooks
@@ -125,25 +95,23 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 ```text
 data-analytics-learning/
 │
-├── excel/
+├── Excel/
 │   └── practice files & dashboards
 │
-├── python/
+├── Python/
 │   └── notebooks (EDA, data cleaning, analysis)
 │
-├── sql/
+├── SQL/
 │   └── queries & case studies
 │
-├── statistics/
-│   └── notes & examples
+├── PowerBI/
+│   └── Files and dashboard
 │
-├── visualization/
-│   └── Power BI / Tableau work
+├── Tableau/
+│   └── Files and dashboard
 │
-├── ai-analytics/
+├── AI_Analytics/
 │   └── AI-assisted analysis experiments
 │
-├── data-engineering-basics/
-│   └── notes & fundamentals
-│
 └── README.md
+```
