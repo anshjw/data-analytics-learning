@@ -30,4 +30,9 @@ This Folder Structure contains:
 - Methods of Demand Forecasting
     - Qualitative method 
     - Quantitaive method
-- 
+- Time Series moving Average
+- Utility Analysis
+- Types of Utility
+- Law of marginal utility
+- Supply
+- Law of Supply
