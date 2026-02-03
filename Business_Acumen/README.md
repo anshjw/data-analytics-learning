@@ -25,3 +25,9 @@ This Folder Structure contains:
 - Demand Schedule
 - Demand Function
 - Limitation of Law Of Demand
+- Types of Goods 
+- Demand Forecasting
+- Methods of Demand Forecasting
+    - Qualitative method 
+    - Quantitaive method
+- 
