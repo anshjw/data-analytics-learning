@@ -20,6 +20,7 @@ It focuses on extracting insights from databases using analytical and case-based
 - Dimension tables
 - Keys
 - Constraints
+- Syntax
 
 ---
 
@@ -29,4 +30,5 @@ It focuses on extracting insights from databases using analytical and case-based
 ```
 SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
  ```
-- 
+- Select only required columns
+- Dot operator (**.**)
