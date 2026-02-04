@@ -3,7 +3,7 @@
 This folder contains SQL queries and practice files.
 It focuses on extracting insights from databases using analytical and case-based queries.
 
-## SQL Basics
+## 1️⃣ SQL Introduction
 - What is SQL?
 - CRUD operations
     - Create
@@ -20,3 +20,13 @@ It focuses on extracting insights from databases using analytical and case-based
 - Dimension tables
 - Keys
 - Constraints
+
+---
+
+## 2️⃣ SQL Basics!  
+    SQL is an scripting language which often used to perform operations on the database to fetch the required data 📊.
+- Keywords
+```
+SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
+ ```
+- 
