@@ -1,9 +1,7 @@
 # 🤖 AI Tools for AI-Assisted Analytics
 
-This folder contains experiments and notes on using AI tools in analytics.
-It focuses on AI-assisted data analysis, EDA, and insight generation.
+    This folder contains experiments and notes on using AI tools in analytics.It focuses on AI-assisted data analysis, EDA, and insight generation.
 
----
 
 ## 🧠 General AI Assistants (Analytics Support)
 
