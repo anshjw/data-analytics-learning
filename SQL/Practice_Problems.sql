@@ -15,3 +15,9 @@ WHERE
     For all 'Data Analyst' and 'Business Analyst' job postings 
     That do not have 'Senior' in the job title short.   
 */
+SELECT job_title_short AS 'Job Title', job_location AS Location, salary_year_avg AS 'Average Salary'
+FROM job_postings_fact
+WHERE
+	((job_title_short NOT LIKE '%Senior%') AND
+     	((job_title_short LIKE '%Data_Analyst%') OR (job_title_short LIKE '%Business_Analyst%'))
+);
