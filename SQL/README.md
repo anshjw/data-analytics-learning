@@ -48,8 +48,14 @@ SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
 ---
 
 ### 4️⃣ Wildcards & Alias
-    Wildcards are used to substitute one or more characters in a string
+```
+Wildcards are used to substitute one or more characters in a string
+```
 - `%` used with `LIKE` to find the similar characters
 - `_` used to find spaced words
 
-    
+```
+AS - renames a column in a table; a temporary name(alias)
+```
+- Make columns more readable
+- Make short form for the columns
