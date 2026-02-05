@@ -44,3 +44,12 @@ SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
 - Logical Operator
     - AND, OR, BETWEEN, NOT, & IN
 - Practice problem one according to it
+
+---
+
+### 4️⃣ Wildcards & Alias
+    Wildcards are used to substitute one or more characters in a string
+- `%` used with `LIKE` to find the similar characters
+- `_` used to find spaced words
+
+    
