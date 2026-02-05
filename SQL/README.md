@@ -34,3 +34,12 @@ SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
 - Select only required columns
 - Dot operator (**.**)
 - Limit (limits the number of rows)
+
+---
+
+### 3️⃣ Comparisons
+    Compare the one attricute to other then show the results according to it.
+- Comparison operator
+    - =, <>, >, <, >=, <=
+- Logical Operator
+    - AND, OR, BETWEEN, NOT
