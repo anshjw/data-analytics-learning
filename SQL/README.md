@@ -42,4 +42,5 @@ SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
 - Comparison operator
     - =, <>, >, <, >=, <=
 - Logical Operator
-    - AND, OR, BETWEEN, NOT
+    - AND, OR, BETWEEN, NOT, & IN
+- Practice problem one according to it
