@@ -59,3 +59,4 @@ AS - renames a column in a table; a temporary name(alias)
 ```
 - Make columns more readable
 - Make short form for the columns
+- Sometimes it does not required to write `AS`
