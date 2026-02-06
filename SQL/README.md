@@ -71,3 +71,17 @@ Used in SELECT, WHERE, GROUP BY, ORDER BY
 - `*`: Multiply two numbers
 - `/`: Writes quotient after dividing numbers
 - `%`: Writes remainder after dividing two numbers
+
+---
+
+### 6️⃣ Aggregation
+```
+Used to get the single result from the input values
+```
+- `SUM()`: Adds the column values
+- `COUNT()`: Count the values in column
+- `AVG()`: Prints the average of column
+- `MAX()`: Maximum of the column
+- `MIN()`: Minimum of the column
+- `GROUP BY`: Group rows with similar values
+- `HAVING`: Filter query based on aggr functions & grouping
