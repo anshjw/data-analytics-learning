@@ -1,8 +1,9 @@
-# SQL
-    This folder contains SQL queries and practice files. 
-    It focuses on extracting insights from databases using analytical and case-based queries.
+# SQL  
+This folder contains SQL queries and practice files. 
+It focuses on extracting insights from databases using analytical and case-based queries.
 ---
 
+## Basics
 ### 1️⃣ SQL Introduction
 - What is SQL?
 - CRUD operations
@@ -21,11 +22,12 @@
 - Keys
 - Constraints
 - Syntax
+- NULL Values
 
 ---
 
 ### 2️⃣ The Basics!  
-    SQL is an scripting language which often used to perform operations on the database to fetch the required data 📊.
+📊 SQL is an scripting language which often used to perform operations on the database to fetch the required data.
 - Keywords
 ```
 SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
@@ -37,7 +39,7 @@ SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
 ---
 
 ### 3️⃣ Comparisons
-    Compare the one attricute to other then show the results according to it.
+Compare the one attricute to other then show the results according to it.
 - Comparison operator
     - =, <>, >, <, >=, <=
 - Logical Operator
@@ -47,15 +49,11 @@ SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
 ---
 
 ### 4️⃣ Wildcards & Alias
-```
 Wildcards are used to substitute one or more characters in a string
-```
 - `%` used with `LIKE` to find the similar characters
-- `_` used to find spaced words
+- `_` used to find spaced words  
 
-```
 AS - renames a column in a table; a temporary name(alias)
-```
 - Make columns more readable
 - Make short form for the columns
 - Sometimes it does not required to write `AS`
@@ -63,9 +61,7 @@ AS - renames a column in a table; a temporary name(alias)
 ---
 
 ### 5️⃣ Operations
-```
 Used in SELECT, WHERE, GROUP BY, ORDER BY
-```
 - `+`: Adds two numbers 
 - `-`: Subrtact two numbers
 - `*`: Multiply two numbers
@@ -75,9 +71,7 @@ Used in SELECT, WHERE, GROUP BY, ORDER BY
 ---
 
 ### 6️⃣ Aggregation
-```
 Used to get the single result from the input values
-```
 - `SUM()`: Adds the column values
 - `COUNT()`: Count the values in column
 - `AVG()`: Prints the average of column
@@ -85,3 +79,5 @@ Used to get the single result from the input values
 - `MIN()`: Minimum of the column
 - `GROUP BY`: Group rows with similar values
 - `HAVING`: Filter query based on aggr functions & grouping
+
+---
