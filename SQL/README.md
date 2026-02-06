@@ -59,3 +59,15 @@ AS - renames a column in a table; a temporary name(alias)
 - Make columns more readable
 - Make short form for the columns
 - Sometimes it does not required to write `AS`
+
+---
+
+### 5️⃣ Operations
+```
+Used in SELECT, WHERE, GROUP BY, ORDER BY
+```
+- `+`: Adds two numbers 
+- `-`: Subrtact two numbers
+- `*`: Multiply two numbers
+- `/`: Writes quotient after dividing numbers
+- `%`: Writes remainder after dividing two numbers
