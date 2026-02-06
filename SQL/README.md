@@ -81,3 +81,12 @@ Used to get the single result from the input values
 - `HAVING`: Filter query based on aggr functions & grouping
 
 ---
+
+### 7️⃣Joins
+🔁 Used to establish the connection between two tables using the unique key and foreign key
+- Outer Joins
+    - Left Outer Join
+    - Right Outer Join
+    - Full Outer Join
+- Inner Join
+- Self Join
