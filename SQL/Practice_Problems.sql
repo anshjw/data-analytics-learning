@@ -24,6 +24,7 @@ WHERE
      	((job_title_short LIKE '%Data_Analyst%') OR (job_title_short LIKE '%Business_Analyst%'))
 );
 
+
 /* Practice Problem three:
     Calculate the current month's total earnings per project
     Calculate a scenario where the hourly rate increases by $5
@@ -36,3 +37,8 @@ FROM
     invoices_fact
 GROUP BY
     project_id;
+
+
+/* Practice Problem four:
+    Calculate the Average salary and number of job posting for each skill
+*/

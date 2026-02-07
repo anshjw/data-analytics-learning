@@ -88,5 +88,8 @@ Used to get the single result from the input values
     - `LEFT OUTER JOIN`: Writes the whole data of 1st table and matching from 2nd.
     - `RIGHT OUTER JOIN`:  Writes the whole data of 2nd table and matching from 1st.
     - `FULL OUETR JOIN`: All data from both tables without repetations
-- `INNER JOIN`
-- `SLEF JOIN`
+- `INNER JOIN`: Writes all the similar content of both the table
+- `SLEF JOIN`: Joins the table itself by treating it as another table
+
+### ⭐Order Of Execution
+`SELECT` -> `FROM/JOIN` -> `WHERE` -> `GROUP BY` -> `HAVING` -> `ORDER BY` -> `LIMIT/OFFSET`
