@@ -42,3 +42,14 @@ GROUP BY
 /* Practice Problem four:
     Calculate the Average salary and number of job posting for each skill
 */
+SELECT 
+	skills AS Skill,
+    COUNT(skills) AS 'Number of Job Posting',
+    AVG(salary_year_avg) AS 'Average Salary'    
+FROM 
+	skills_dim s
+LEFT JOIN
+	skills_job_dim sj ON sj.skill_id = s.skill_id,
+	job_postings_fact f ON f.job_id = sj.job_id
+GROUP BY
+	skills;
