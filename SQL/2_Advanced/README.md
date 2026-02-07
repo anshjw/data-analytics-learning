@@ -1,7 +1,22 @@
 # Advanced
 ## 1️⃣ Data types
-- `INT` - Integers, numeric, numbers defined by this
-- `VARCHAR` - Variable characters/strings of character
-- `BOOLEAN` - Boolean values like TRUE/FALSE
-- `TIMESTAMP` - Time stamp format or date (`NOW`)
-- `NUMERIC` - Integers, numbers in extended capacity of the size of vaiables
+- `INT` - Integers, numeric, numbers with 4 bytes
+- `NUMERIC` - Numbers which can cosist of decimal numbers 
+- `VARCHAR(n)` - Variable string with length n
+- `TEXT` - A steing of characters
+- `BOOLEAN` - Boolean values of TRUE/FALSE/NULL
+- `DATE` - A specific date without time
+- `TIMESTAMP` - Specific date and time without time zone
+- `TIMESTAMP WITH TIME ZONE` - Date & Time with zone information
+
+---
+
+## Manipulate tables
+- `CREATE TABLE`: Create the new table
+- `INSERT INTO`: Insert values into the table
+- `ALTER TABLE`: Alters table
+    - `ADD`: Add column
+    - `RENAME COLUMN`: Renames the column
+    - `ALTER COLUMN`: Alter the columns
+    - `DROP COLUMNS`: Delete the column
+- `DROP TABLE`: Delete table (Be extremly careful)
