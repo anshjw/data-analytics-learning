@@ -1,10 +1,5 @@
-# SQL  
-This folder contains SQL queries and practice files. 
-It focuses on extracting insights from databases using analytical and case-based queries.
----
-
-## Basics
-### 1️⃣ SQL Introduction
+# Basics
+## 1️⃣ SQL Introduction
 - What is SQL?
 - CRUD operations
     - Create
@@ -26,7 +21,7 @@ It focuses on extracting insights from databases using analytical and case-based
 
 ---
 
-### 2️⃣ The Basics!  
+## 2️⃣ The Basics!  
 📊 SQL is an scripting language which often used to perform operations on the database to fetch the required data.
 - Keywords
 ```
@@ -38,7 +33,7 @@ SELECT/FROM, LIMIT, DISTINCT, WHERE, --, /**/, OREDER BY
 
 ---
 
-### 3️⃣ Comparisons
+## 3️⃣ Comparisons
 Compare the one attricute to other then show the results according to it.
 - Comparison operator
     - =, <>, >, <, >=, <=
@@ -48,7 +43,7 @@ Compare the one attricute to other then show the results according to it.
 
 ---
 
-### 4️⃣ Wildcards & Alias
+## 4️⃣ Wildcards & Alias
 Wildcards are used to substitute one or more characters in a string
 - `%` used with `LIKE` to find the similar characters
 - `_` used to find spaced words  
@@ -60,7 +55,7 @@ AS - renames a column in a table; a temporary name(alias)
 
 ---
 
-### 5️⃣ Operations
+## 5️⃣ Operations
 Used in SELECT, WHERE, GROUP BY, ORDER BY
 - `+`: Adds two numbers 
 - `-`: Subrtact two numbers
@@ -70,7 +65,7 @@ Used in SELECT, WHERE, GROUP BY, ORDER BY
 
 ---
 
-### 6️⃣ Aggregation
+## 6️⃣ Aggregation
 Used to get the single result from the input values
 - `SUM()`: Adds the column values
 - `COUNT()`: Count the values in column
@@ -82,7 +77,7 @@ Used to get the single result from the input values
 
 ---
 
-### 7️⃣Joins
+## 7️⃣Joins
 🔁 Used to establish the connection between two tables using the unique key and foreign key
 - Outer Joins
     - `LEFT OUTER JOIN`: Writes the whole data of 1st table and matching from 2nd.
@@ -93,10 +88,8 @@ Used to get the single result from the input values
 
 ---
 
-### ⭐Order Of Execution
+## ⭐Order Of Execution
 `SELECT` -> `FROM/JOIN` -> `WHERE` -> `GROUP BY` -> `HAVING` -> `ORDER BY` -> `LIMIT/OFFSET`
 
 ---
 
-## Advanced
-### 1️⃣Data Types
