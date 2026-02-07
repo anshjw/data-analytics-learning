@@ -91,5 +91,9 @@ Used to get the single result from the input values
 - `INNER JOIN`: Writes all the similar content of both the table
 - `SLEF JOIN`: Joins the table itself by treating it as another table
 
+---
+
 ### ⭐Order Of Execution
 `SELECT` -> `FROM/JOIN` -> `WHERE` -> `GROUP BY` -> `HAVING` -> `ORDER BY` -> `LIMIT/OFFSET`
+
+---
