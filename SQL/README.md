@@ -85,8 +85,8 @@ Used to get the single result from the input values
 ### 7️⃣Joins
 🔁 Used to establish the connection between two tables using the unique key and foreign key
 - Outer Joins
-    - Left Outer Join
-    - Right Outer Join
-    - Full Outer Join
-- Inner Join
-- Self Join
+    - `LEFT OUTER JOIN`: Writes the whole data of 1st table and matching from 2nd.
+    - `RIGHT OUTER JOIN`:  Writes the whole data of 2nd table and matching from 1st.
+    - `FULL OUETR JOIN`: All data from both tables without repetations
+- `INNER JOIN`
+- `SLEF JOIN`
