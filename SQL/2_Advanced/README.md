@@ -24,6 +24,8 @@
 ---
 
 ## Database Load
+- Download CSV & SQL files
+- Create tables in database
 - How to load database 
 - How to connect `POSTGRE SQL` to VS Code
 - Key Constraints
@@ -31,3 +33,4 @@
     - Foriegn key
     - Super key
     - Unique key
+- Load data into Tables
