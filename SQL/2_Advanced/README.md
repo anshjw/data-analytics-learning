@@ -20,3 +20,14 @@
     - `ALTER COLUMN`: Alter the columns
     - `DROP COLUMNS`: Delete the column
 - `DROP TABLE`: Delete table (Be extremly careful)
+
+---
+
+## Database Load
+- How to load database 
+- How to connect `POSTGRE SQL` to VS Code
+- Key Constraints
+    - Primary key
+    - Foriegn key
+    - Super key
+    - Unique key
