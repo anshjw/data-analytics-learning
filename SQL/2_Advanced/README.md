@@ -34,3 +34,10 @@
     - Super key
     - Unique key
 - Load data into Tables
+
+---
+
+## Date Functions 
+- `::DATE`: Converting to a date by removing the time portion
+- `AT TIME ZONE`: Convert timezone to specified timezone
+- `EXTRACT`: Gets specific date part
