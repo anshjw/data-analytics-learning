@@ -92,4 +92,3 @@ Used to get the single result from the input values
 `SELECT` -> `FROM/JOIN` -> `WHERE` -> `GROUP BY` -> `HAVING` -> `ORDER BY` -> `LIMIT/OFFSET`
 
 ---
-
