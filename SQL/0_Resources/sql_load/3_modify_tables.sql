@@ -13,7 +13,7 @@ NOTE: If you are having issues with permissions. And you get error:
     1. Find path by right-clicking a CSV file in VS Code and selecting “Copy Path”
 5. Paste the following into `PSQL Tool`, (with the CORRECT file path)
 
-\copy company_dim FROM '[Insert File Path]/company_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy company_dim FROM '[C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\company_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
 \copy skills_dim FROM '[Insert File Path]/skills_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
@@ -25,34 +25,10 @@ NOTE: If you are having issues with permissions. And you get error:
 
 -- NOTE: This has been updated from the video to fix issues with encoding
 
-COPY company_dim
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\company_dim.csv'
-WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy company_dim FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\company_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF-8');
 
-COPY skills_dim
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\skills_dim.csv'
-WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy skills_dim FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\skills_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF-8');
 
-COPY job_postings_fact
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\job_postings_fact.csv'
-WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy job_postings_fact FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\job_postings_fact.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF-8');
 
-COPY skills_job_dim
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\skills_job_dim.csv'
-WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-
-COPY company_dim
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\company_dim.csv'
-DELIMITER ',' CSV HEADER;
-
-COPY skills_dim
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\skills_dim.csv'
-DELIMITER ',' CSV HEADER;
-
-COPY job_postings_fact
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\job_postings_fact.csv'
-DELIMITER ',' CSV HEADER;
-
-COPY skills_job_dim
-FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\skills_job_dim.csv'
-DELIMITER ',' CSV HEADER;
+\copy skills_job_dim FROM 'C:\Users\Asus\Documents\data-analytics-learning\SQL\0_Resources\csv_files\skills_job_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF-8');
