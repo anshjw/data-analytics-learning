@@ -2,7 +2,7 @@
 
 This repository documents my structured and long-term learning journey in **Data Analytics** with the goal of becoming a **Full-Stack Data Analyst**.
 
-It covers not only core analytics skills, but also supporting areas such as **AI-assisted analytics, data engineering fundamentals, and business acumen**, enabling flexibility across multiple analyst and data roles. 
+It covers not only core analytics skills, but also supporting areas such as **AI-assisted analytics, Data engineering fundamentals, and Business acumen**, enabling flexibility across multiple analyst and data roles. 
 
 ---
 
@@ -15,7 +15,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 - Understand **data engineering basics**
 - Strengthen **business and decision-making skills**
 - Keep career paths open:  
-  **Data Analyst | Business Analyst | Analytics Engineer | Entry-level Data Engineer**
+  **Data Analyst | Business Analyst | Analytics Engineer | Entry-level Data Engineer | Developer**
 
 ---
 
@@ -41,6 +41,16 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ---
 
+### 3️⃣ SQL for Analytics & Data Querying
+- BIG 6 Statements
+- JOINS, CTEs, Window
+- Subqueries
+- View, Triggers
+- Case-based business queries
+- Writing efficient and readable SQL
+
+---
+
 ### 4️⃣ Python for Data Analysis
 - Python fundamentals
 - NumPy for numerical computation
@@ -52,17 +62,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ---
 
-### 5️⃣ SQL for Analytics & Data Querying
-- SELECT, WHERE, ORDER BY
-- GROUP BY, HAVING
-- JOINS (INNER, LEFT, RIGHT)
-- Subqueries
-- Case-based business queries
-- Writing efficient and readable SQL
-
----
-
-### 6️⃣ Data Visualization & BI Tools
+### 5️⃣ Data Visualization & BI Tools
 - Power BI (dashboards, reports, data modeling)
 - Tableau (basic visual analytics)
 - Choosing the right chart for the right insight
@@ -70,7 +70,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ---
 
-### 7️⃣ AI & AI-Assisted Analytics
+### 6️⃣ AI & AI-Assisted Analytics
 - Importance of AI in modern analytics
 - Using AI tools to:
   - Assist SQL query writing
@@ -81,7 +81,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ---
 
-### 🔟 Tools, Workflow & Deployment
+### 7️⃣ Tools, Workflow & Deployment
 - Git & GitHub for version control
 - Kaggle for datasets and notebooks
 - Streamlit for lightweight analytics dashboards
@@ -102,7 +102,7 @@ data-analytics-learning/
 │   └── notebooks (EDA, data cleaning, analysis)
 │
 ├── SQL/
-│   └── queries & case studies
+│   └── Begginer & Advanced
 │
 ├── PowerBI/
 │   └── Files and dashboard

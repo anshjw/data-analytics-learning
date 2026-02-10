@@ -3,6 +3,7 @@ This dashboard contains the visulaisation and analysis of the data science job s
 
 ---
 ![alt text](../0_Resources/Images/Recording2026-02-02203523-ezgif.com-video-to-gif-converter.gif)
+[Check Out My Work Here](https://www.linkedin.com/posts/ansh-jaiswal-400b0a328_dataanalytics-exceldashboard-datascience-share-7420444413136494593-ZgdH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_CcAB7J0_xoklctX8ejLUWRq8OfAu5LI)
 ---
 
 ## Topics required to build 

@@ -55,3 +55,5 @@ A case expression in SQL is a way to apply condition logic within your SQL queri
 - `THEN`: What to do when condition is true
 - `ELSE`: Else condition
 - `END`: Concludes the expression
+
+---
