@@ -41,3 +41,7 @@
 - `::DATE`: Converting to a date by removing the time portion
 - `AT TIME ZONE`: Convert timezone to specified timezone
 - `EXTRACT`: Gets specific date part
+    - MONTH
+    - DAY
+    - YEAR
+- Refer [POSTGRE Documentations For time zones](https://www.postgresql.org/docs/current/datatype-datetime.html#DATATYPE-TIMEZONES)
