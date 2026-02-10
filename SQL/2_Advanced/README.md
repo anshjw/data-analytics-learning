@@ -45,3 +45,13 @@
     - DAY
     - YEAR
 - Refer [POSTGRE Documentations For time zones](https://www.postgresql.org/docs/current/datatype-datetime.html#DATATYPE-TIMEZONES)
+
+---
+
+## Case Expression
+A case expression in SQL is a way to apply condition logic within your SQL queries
+- `CASE`: Begins the expression
+- `WHEN`: Specifies the condition to look at
+- `THEN`: What to do when condition is true
+- `ELSE`: Else condition
+- `END`: Concludes the expression
