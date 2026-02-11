@@ -57,3 +57,11 @@ A case expression in SQL is a way to apply condition logic within your SQL queri
 - `END`: Concludes the expression
 
 ---
+
+## Subqueries & CTEs
+- Subqueries
+- Common table expressions
+- Organising & simplifying complex queries
+- 
+
+---
