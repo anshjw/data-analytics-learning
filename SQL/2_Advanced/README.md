@@ -62,6 +62,12 @@ A case expression in SQL is a way to apply condition logic within your SQL queri
 - Subqueries
 - Common table expressions
 - Organising & simplifying complex queries
-- 
+
+### Subquery
+- Query within the query
+- It can be used in several places
+    - `SELECT`, `FROM`, `WHERE`, `HAVING` CLAUSES
+- It executes first then pass the result to the outer query
+- Used to perofrm query before main query
 
 ---
