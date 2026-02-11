@@ -11,7 +11,7 @@
 
 ---
 
-## Manipulate tables
+## 2️⃣Manipulate tables
 - `CREATE TABLE`: Create the new table
 - `INSERT INTO`: Insert values into the table
 - `ALTER TABLE`: Alters table
@@ -23,7 +23,7 @@
 
 ---
 
-## Database Load
+## 3️⃣ Database Load
 - Download CSV & SQL files
 - Create tables in database
 - How to load database 
@@ -37,7 +37,7 @@
 
 ---
 
-## Date Functions 
+## 4️⃣ Date Functions 
 - `::DATE`: Converting to a date by removing the time portion
 - `AT TIME ZONE`: Convert timezone to specified timezone
 - `EXTRACT`: Gets specific date part
@@ -48,7 +48,7 @@
 
 ---
 
-## Case Expression
+## 5️⃣ Case Expression
 A case expression in SQL is a way to apply condition logic within your SQL queries
 - `CASE`: Begins the expression
 - `WHEN`: Specifies the condition to look at
@@ -58,7 +58,7 @@ A case expression in SQL is a way to apply condition logic within your SQL queri
 
 ---
 
-## Subqueries & CTEs
+## 6️⃣ Subqueries & CTEs
 - Subqueries
 - Common table expressions
 - Organising & simplifying complex queries
@@ -69,5 +69,11 @@ A case expression in SQL is a way to apply condition logic within your SQL queri
     - `SELECT`, `FROM`, `WHERE`, `HAVING` CLAUSES
 - It executes first then pass the result to the outer query
 - Used to perofrm query before main query
+
+### CTEs - Common Table Expression
+- Temporary result set that can reference within a `SELECT` `INSERT` `UPDATE` or `DELETE` statement
+- Exist only during the execution of the query
+- It is a defined query that can be refrenced by main query or CTEs
+- `WITH` starts the CTEs
 
 ---

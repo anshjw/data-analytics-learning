@@ -32,3 +32,16 @@ WHERE
         ORDER BY
             company_id
 );
+
+-- Find the companies that have most job openings
+WITH company_job_counts AS (
+    SELECT
+        company_id,
+        COUNT(*) AS job_openings
+    FROM
+        job_postings_fact
+    GROUP BY
+        company_id
+)
+SELECT *
+FROM company_job_counts;
