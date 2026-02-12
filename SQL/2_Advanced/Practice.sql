@@ -51,3 +51,20 @@ FROM
 LEFT JOIN company_job_counts ON company_dim.company_id = company_job_counts.company_id
 ORDER BY
     company_job_counts.total_jobs DESC;
+
+-- UNION
+SELECT
+    job_title_short,
+    company_id,
+    job_location
+FROM
+    jan_jobs
+
+UNION
+
+SELECT
+    job_title_short,
+    company_id,
+    job_location
+FROM
+    feb_jobs;
