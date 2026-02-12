@@ -57,4 +57,12 @@ FROM
 INNER JOIN skills_dim ON remote_job_skills.skill_id = skills_dim.skill_id
 ORDER BY
     skill_count DESC
-LIMIT 5;
+LIMIT
+    5;
+
+/*
+Practice Problem 3:
+Find job postings from the first quarter that have a salary greater than 70K
+    - Combine job postings tables from the first quarter of 2023
+    - Get the job postings with an average yearly salary > 70K
+*/
