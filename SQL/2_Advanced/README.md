@@ -77,3 +77,16 @@ A case expression in SQL is a way to apply condition logic within your SQL queri
 - `WITH` starts the CTEs
 
 ---
+
+## 7️⃣ Union Operators
+- Combine resulys sets of two or more `SELECT` statements
+- `UNION`: Removes duplicates
+- `UNION ALL`: Print with duplicates
+- Each `SELECT` statement should have the same number of columns within
+
+### UNION
+- Combines results from two or more `SELECT` statements
+- They need to have same amount of columns, also should match data types
+- Get rid of duplicate rows
+
+### UNION ALL
