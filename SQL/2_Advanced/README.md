@@ -90,3 +90,6 @@ A case expression in SQL is a way to apply condition logic within your SQL queri
 - Get rid of duplicate rows
 
 ### UNION ALL
+- Combines results from two or more `SELECT` statements
+- They need to have same amount of columns, also should match data types
+- Duplicate rows also included unlike `UNION`
