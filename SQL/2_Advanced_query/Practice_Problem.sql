@@ -1,6 +1,6 @@
 /*
 Practice Problem 1:
-    Create three tables: Jan, Feb, and Mar jobs.
+Create three tables: Jan, Feb, and Mar jobs.
 */
 -- January
 CREATE TABLE Jan_jobs AS
@@ -29,9 +29,9 @@ CREATE TABLE Mar_jobs AS
 
 /*
 Practice Problem 2:
-    Find the count of the number of remote job postings per skill
-        - Display the top 5 skills by their demand in remote jobs
-        - Include name, skill_id and count of remote posting requiring the skill
+Find the count of the number of remote job postings per skill
+    - Display the top 5 skills by their demand in remote jobs
+    - Include name, skill_id and count of remote posting requiring the skill
 */
 WITH remote_job_skills AS (
     SELECT
@@ -63,8 +63,8 @@ LIMIT
 /*
 Practice Problem 3:
 Find job postings from the first quarter that have a salary greater than 70K
-    - Combine job postings tables from the first quarter of 2023
-    - Get the job postings with an average yearly salary > 70K
+- Combine job postings tables from the first quarter of 2023
+- Get the job postings with an average yearly salary > 70K
 */
 SELECT
     job_title_short,

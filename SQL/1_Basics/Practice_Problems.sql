@@ -1,7 +1,7 @@
 /* Practice Problem one:
-    - Retrieve all 'Data Analyst' with an average yearly salary greater than 100k
-    - Or 'Business Analyst' with an average yearly salary greater than 70k
-    - And the job location is either 'Boston, MA' or 'Anywhere'.
+- Retrieve all 'Data Analyst' with an average yearly salary greater than 100k
+- Or 'Business Analyst' with an average yearly salary greater than 70k
+- And the job location is either 'Boston, MA' or 'Anywhere'.
  */
 SELECT
     *
@@ -15,9 +15,9 @@ WHERE
 
 
 /* Practice Problem two:
-    - Retrive the job title, location and average salary
-    - For all 'Data Analyst' and 'Business Analyst' job postings 
-    - That do not have 'Senior' in the job title short.   
+- Retrive the job title, location and average salary
+- For all 'Data Analyst' and 'Business Analyst' job postings 
+- That do not have 'Senior' in the job title short.   
 */
 SELECT
     job_title_short AS 'Job Title', job_location AS Location, salary_year_avg AS 'Average Salary'
@@ -30,8 +30,8 @@ WHERE
 
 
 /* Practice Problem three:
-    - Calculate the current month's total earnings per project
-    - Calculate a scenario where the hourly rate increases by $5
+- Calculate the current month's total earnings per project
+- Calculate a scenario where the hourly rate increases by $5
 */
 SELECT
 	project_id,
@@ -44,7 +44,7 @@ GROUP BY
 
 
 /* Practice Problem four:
-    - Calculate the Average salary and number of job posting for each skill
+Calculate the Average salary and number of job posting for each skill
 */
 SELECT 
 	skills AS Skill,
