@@ -64,7 +64,6 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ### 5️⃣ Data Visualization & BI Tools
 - Power BI (dashboards, reports, data modeling)
-- Tableau (basic visual analytics)
 - Choosing the right chart for the right insight
 - Storytelling with data
 
@@ -105,9 +104,6 @@ data-analytics-learning/
 │   └── Begginer & Advanced
 │
 ├── PowerBI/
-│   └── Files and dashboard
-│
-├── Tableau/
 │   └── Files and dashboard
 │
 ├── AI_Analytics/
