@@ -41,13 +41,14 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ---
 
-### 3️⃣ SQL for Analytics & Data Querying
+### 3️⃣ SQL & Intermediate SQL for Analytics
 - BIG 6 Statements
 - JOINS, CTEs, Window
 - Subqueries
 - View, Triggers
 - Case-based business queries
 - Writing efficient and readable SQL
+- Data Quality Check
 
 ---
 
@@ -102,6 +103,9 @@ data-analytics-learning/
 │
 ├── SQL/
 │   └── Begginer & Advanced
+|
+├── Int SQL/
+│   └── Case Studies & Advanced
 │
 ├── PowerBI/
 │   └── Files and dashboard
