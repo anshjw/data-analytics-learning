@@ -3,7 +3,7 @@
 Data Nerds! This repo contains all the files needed to follow along my free course: [Intermediate SQL for Data Analytics](https://www.lukebarousse.com/int-sql)
 [![alt text](./Resources/images/SQL_thumbnail.png)](https://youtu.be/QKIGsShyEsQ)
 
-## Team Members 👥
+## Learning Credits 👥
 **🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
 **🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
 **📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
@@ -66,8 +66,7 @@ Data Nerds! This repo contains all the files needed to follow along my free cour
 - Google Account
 
 #### Steps:
-1. Click the "Open in Colab" button at top of any notebook.  
-<img src="./Resources/images/open_in_colab.png" alt="Open in Colab" width="50%" height="auto">
+1. Click the "Open in Colab" button at top of any notebook.
 2. Run all cells in the notebook.   
    
 ---
@@ -83,8 +82,6 @@ Data Nerds! This repo contains all the files needed to follow along my free cour
 2. Open pgAdmin 4.
 3. In Object Explorer, connect to your PostgreSQL server.
 4. Right-click on "Databases" > "Create" > "Database...".  
-
-<img src="./Resources/images/pgAdmin_CreateDatabase.gif" alt="Create Database" width="50%" height="auto">
 
 5. Enter `contoso_100k`for "Database" and click "Save".
 6. In Object Explorer, right-click on the `contoso_100k` database > "PSQL Tool".
