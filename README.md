@@ -41,7 +41,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 
 ---
 
-### 3️⃣ SQL & Intermediate SQL for Analytics
+### 3️⃣ SQL & INT SQL for Analytics
 - BIG 6 Statements
 - JOINS, CTEs, Window
 - Subqueries
