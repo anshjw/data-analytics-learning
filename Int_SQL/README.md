@@ -1,4 +1,5 @@
-# 📊 Intermediate SQL for Data Analytics - Full Course
+# Still Learning
+# 📊 Intermediate SQL for Data Analytics
 
 Data Nerds! This repo contains all the files needed to follow along my free course: [Intermediate SQL for Data Analytics](https://www.lukebarousse.com/int-sql)
 [![alt text](./Resources/images/SQL_thumbnail.png)](https://youtu.be/QKIGsShyEsQ)
