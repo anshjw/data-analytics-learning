@@ -17,9 +17,9 @@
 
 ### 2. Date Time
 
- - [Date Format](2_Date_Time/1_Date_Format.ipynb)
- - [Date Filtering](2_Date_Time/2_Date_Filtering.ipynb)
- - [Date Differences](2_Date_Time/3_Date_Differences.ipynb)
+ - [Date Format](2_Date_&_Time/1_Date_Format.ipynb)
+ - [Date Filtering](2_Date_&_Time/2_Date_Filtering.ipynb)
+ - [Date Differences](2_Date_&_Time/3_Date_Differences.ipynb)
 
 ### 3. Windows Functions
 
@@ -31,7 +31,7 @@
 
 ### 4. Views
 
- - [View Intro](4_Views/1_View_Intro.ipynb)
+ - [View Intro](4_Views/1_View_Intro.ipynbb)
  - [Project Cohort Revenue](4_Views/2_Project_Cohort_Revenue.ipynb)
 
 ### 5. Data Cleaning
