@@ -28,7 +28,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="../Resources/images/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
+<img src="../0_Resources/Images/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
 
 📊 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -41,7 +41,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Low-Value (2% revenue): Design re-engagement campaigns and price-sensitive promotions to increase purchase frequency
 
 ### 2. Customer Revenue by Cohort
-**🖥️ Query**: [2_cohort_analysis.sql](2_cohort_analysis.sql)
+**🖥️ Query**: [2_cohort_analysis.sql]()
 
 - Tracked revenue and customer count per cohorts
 - Cohorts were grouped by year of first purchase
@@ -49,15 +49,13 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-> ⚠️ Note: This only includes 2 charts. 
-
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
 
-<img src="../Resources/images/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
+<img src="../0_Resources/Images/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-<img src="../Resources/images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
+<img src="../0_Resources/Images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
 
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
@@ -78,7 +76,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
 **📈 Visualization:**
 
-<img src="../Resources/images/7.3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+<img src="../0_Resources/Images/7.3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
@@ -109,5 +107,5 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, Dbeaver
+- **Analysis Tools:** PgAdmin,Goggle Colab, Dbeaver
 - **Visualization:** ChatGPT
