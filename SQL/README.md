@@ -1,7 +1,7 @@
 # Introduction
 📊 Dive into the data job market! Focusing on Data Analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand  skills, and 📈 where high demand meets high salary.
 
-🔍 SQL queries? Check them out here [Project_SQL](/SQL/Project).
+🔍 SQL queries? Check them out here [Project_SQL](/SQL/Project/).
 
 ---
 
@@ -10,7 +10,7 @@ Driven by quest to analyse data analyst job market more effectively, this projec
 
 Data hails from [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, job locations, and skills.
 
-### Thye questions I wanted to answer through my SQL queries were:
+### The questions I wanted to answer through my SQL queries were:
 
 1. What are the top paying jobs?
 2. What are skills required for these top-paying jobs?
