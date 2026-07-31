@@ -2,3 +2,10 @@
 SQL/0_Resources/csv_files
 Int_SQL/.project
 Int_SQL/.dbeaver
+PowerBI/clean_data.csv
+PowerBI/Dashboard.pbix
+PowerBI/pharma_analysis.ipynb
+PowerBI/pharma_products_full_features.csv
+PowerBI/report.docx
+PowerBI/report.pdf
+PowerBI/synopsis pdf.pdf
