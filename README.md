@@ -15,7 +15,7 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 - Understand **data engineering basics**
 - Strengthen **business and decision-making skills**
 - Keep career paths open:  
-  **Data Analyst | Business Analyst | Analytics Engineer | Entry-level Data Engineer | Developer**
+  **Data Analyst | Business Analyst | Analytics Engineer | Entry-level Data Engineer | Web Developer**
 
 ---
 
@@ -33,21 +33,22 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 ### 2️⃣ Excel for Analytics & Business Reporting
 - Data cleaning and formatting
 - Logical formulas (IF, COUNTIF, SUMIF)
-- Lookups (VLOOKUP / XLOOKUP)
+- Lookups (VLOOKUP / HLOOKUP / XLOOKUP)
 - Tables & Pivot Tables
-- Charts and dashboards
-- Business-style reporting
-- Power query & Power pivot
-
+- Charts and Dashboards
+- Business-Style Reporting
+- Power Query & Power Pivot
+- DAX
+  
 ---
 
 ### 3️⃣ SQL & INT SQL for Analytics
 - BIG 6 Statements
 - JOINS, CTEs, Window
 - Subqueries
-- View, Triggers
+- View | Triggers
 - Case-based business queries
-- Writing efficient and readable SQL
+- Writing efficient and readable SQL Scripts
 - Data Quality Check
 
 ---
@@ -64,9 +65,9 @@ It covers not only core analytics skills, but also supporting areas such as **AI
 ---
 
 ### 5️⃣ Data Visualization & BI Tools
-- Power BI (dashboards, reports, data modeling)
-- Choosing the right chart for the right insight
-- Storytelling with data
+- Power BI (Dashboards, Reports, Data Modeling, Power Query)
+- Choosing the right chart to tell the right insight
+- Data Storytelling
 
 ---
 
@@ -76,42 +77,47 @@ It covers not only core analytics skills, but also supporting areas such as **AI
   - Assist SQL query writing
   - Speed up EDA
   - Improve data cleaning
+  - Query Assistance
 - Prompting techniques for analytics use-cases
-- Understanding limitations of AI in decision-making
+- Understanding limitations of AI in decision-making & Critical thinking
 
 ---
 
 ### 7️⃣ Tools, Workflow & Deployment
 - Git & GitHub for version control
 - Kaggle for datasets and notebooks
-- Streamlit for lightweight analytics dashboards
+- Streamlit for lightweight analytics Dashboards
 - Portfolio building using GitHub Pages
-- Documentation and presentation of work
+- Documentation and Presentation of work
+- Power BI for Business Reports & Storytelling
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-data-analytics-learning/
+Data-Analytics-Learning/
 │
 ├── Excel/
-│   └── practice files & dashboards
+│   └── Practice Files & Dashboards
 │
 ├── Python/
-│   └── notebooks (EDA, data cleaning, analysis)
+│   └── Notebooks (EDA, Data Extraction, Data Cleaning, Analysis)
 │
 ├── SQL/
-│   └── Begginer & Advanced
+│   └── Beginner & Advanced Query Files
 |
 ├── Int SQL/
-│   └── Case Studies & Advanced
+│   └── Case Studies & Advanced Scripts
 │
-├── PowerBI/
-│   └── Files and dashboard
+├── Power BI/
+│   └── Files and Dashboard
 │
-├── AI_Analytics/
-│   └── AI-assisted analysis experiments
+├── AI-Analytics/
+│   └── AI-assisted Analysis Experiments
+```
+
+---
 │
 └── README.md
 ```
