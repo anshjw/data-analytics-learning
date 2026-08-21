@@ -2,7 +2,7 @@ from sys import path
 
 path.append('..∖∖modules')
 
-import module
+import Python.modules.module as module
 
 zeroes = [0 for i in range(5)]
 ones = [1 for i in range(5)]

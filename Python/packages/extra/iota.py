@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-""" module: iota """
+""" module: extra.iota """
 
 def funI():
   return "Iota"
