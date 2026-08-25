@@ -24,7 +24,7 @@
 - Module 4
     Miscellaneous (generators, iterators, closures, file streams, processing text and binary files, the os, time, datetime, and calendar module).
 
-## Modules in python  
+## 2. Modules in python  
 
 - Computer code has a tendency to grow. We can say that code that doesn't grow is probably completely unusable or abandoned. A real, wanted, and widely used code develops continuously, as both users' demands and users' expectations develop in their own rhythms.
 
@@ -108,7 +108,7 @@ print(m.sin(m.pi/2))
 
 5. Python Module Index https://docs.python.org/3/py-modindex.html is a community-driven directory of modules available in the Python universe. If you want to find a module fitting your needs, start your search there.
 
-## Modules and Packages
+## 3. Modules and Packages
 
 - a module is a kind of container filled with functions - you can pack as many functions as you want into one module and distribute it across the world
 - of course, it's generally a good idea not to mix functions with different application areas within one module (just like in a library - nobody expects scientific works to be put among comic books), so group your functions carefully and name the module containing them in a clear and intuitive way 
@@ -137,3 +137,48 @@ print(m.sin(m.pi/2))
 
 6. A Python file named __init__.py is implicitly run when a package containing it is subject to import, and is used to initialize a package and/or its sub-packages (if any). The file may be empty, but must not be absent.
 
+## 4. PIP in Python
+
+- The PyPI repo is sometimes referred to as the Cheese Shop. Really.
+
+- Does that sound a little strange to you? Don't worry, it’s all perfectly innocent.
+
+- We refer to the repo as a shop, because you go there for the same reasons you go to other shops: to fulfill your needs. If you want some cheese, you go to the cheese shop. If you want a piece of software, you go to the software shop. Fortunately, the analogy ends here – you don't need any money to take some software out of the repo shop.
+
+- PyPI is completely free, and you can just pick a code and use it – you’ll encounter neither cashier nor security guard. Of course, it doesn't absolve you from being polite and honest. You have to obey all the licensing terms, so don't forget to read them.
+
+- It also requires a special tool to make use of it. Fortunately, this tool is also free, so if you want to make your own digital cheeseburger by using the goods offered by the PyPI Shop, you’ll need a free tool named pip.
+
+**Check the version of pip because in not pirated windowsthe pip is pre-installed.**
+```
+pip --version
+```
+**Gives you complete Help guide to use it.**
+```
+pip help
+```
+**Install pygame**
+```
+pip install pygame
+pip install --user pygame
+```
+**Simple test program**
+```
+import pygame
+
+run = True
+width = 400
+height = 100
+pygame.init()
+screen = pygame.display.set_mode((width, height))
+font = pygame.font.SysFont(None, 48)
+text = font.render("Welcome to pygame", True, (255, 255, 255))
+screen.blit(text, ((width - text.get_width()) // 2, (height - text.get_height()) // 2))
+pygame.display.flip()
+while run:
+  for event in pygame.event.get():
+   if event.type == pygame.QUIT\
+   or event.type == pygame.MOUSEBUTTONUP\
+   or event.type == pygame.KEYUP:
+    run = False
+```
