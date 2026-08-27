@@ -182,3 +182,53 @@ while run:
    or event.type == pygame.KEYUP:
     run = False
 ```
+
+## 5. Strings, String & List methods
+
+![ASCII Table](<Images/Screenshot 2026-08-27 102620.png>)
+
+- **Multiline string**
+```
+multiline = '''Line #1
+Line #2'''
+
+print(len(multiline))
+```
+- **Operation on strings**
+```
+str1 = 'a'
+str2 = 'b'
+
+print(str1 + str2)
+print(str2 + str1)
+print(5 * 'a')
+print('b' * 4)
+```
+- **Indexing**
+We told you before that Python strings are sequences. It's time to show you what that actually means.  
+
+Strings aren't lists, but you can treat them like lists in many particular cases.
+```
+# Indexing strings.
+
+the_string = 'silly walks'
+
+for ix in range(len(the_string)):
+    print(the_string[ix], end=' ')
+
+print()
+```
+- **Slices**
+```
+# Slices
+
+alpha = "abdefg"
+
+print(alpha[1:3])
+print(alpha[3:])
+print(alpha[:3])
+print(alpha[3:-2])
+print(alpha[-3:4])
+print(alpha[::2])
+print(alpha[1::2])
+```
